@@ -1,421 +1,526 @@
 # 卡拉永远 OK
 
+## A
 
-| 曲目 | 链接 |
-| :--- | :--- |
-| 愛的根源   譚詠麟〈卡拉伴奏版〉 | https://www.youtube.com/watch?v=QHwwx3p-zNQ |
-| 愛的根源 －譚詠麟〈演唱版〉 | https://www.youtube.com/watch?v=NnNWiPyM-MA |
-| 愛的逃兵   譚詠麟〈歌手演唱版〉 | https://www.youtube.com/watch?v=OgIE74j0xws |
-| 愛的逃兵   譚詠麟〈MMO 卡拉版〉 | https://www.youtube.com/watch?v=HCGhOGti7dM |
-| 愛的逃兵   譚詠麟〈壓聲卡拉版〉 | https://www.youtube.com/watch?v=GpZvj_v-U-0 |
-| 愛的替身‧誰可改變   譚詠麟‧李克勤〈Live 卡拉版〉 | https://www.youtube.com/watch?v=aME88eqpagw |
-| 愛多一次 痛多一次   譚詠麟〈歌手演 HD版〉 | https://www.youtube.com/watch?v=XCRgLhCCl9Y |
-| 愛多一次 痛多一次   譚詠麟〈卡拉伴奏版〉 | https://www.youtube.com/watch?v=2NWKbOPenkY |
-| 愛多一次 痛多一次   譚詠麟〈MMO C major版〉 | https://www.youtube.com/watch?v=YuluriDcxBU |
-| 愛莫能助   譚詠麟〈MMO HD版〉 | https://www.youtube.com/watch?v=NU5U2Ep34V0 |
-| 愛念   譚詠麟〈歌手演唱版〉 | https://www.youtube.com/watch?v=99N8kpIe7Fg |
-| 愛念   譚詠麟〈MMO 卡拉版〉 | https://www.youtube.com/watch?v=H9PD_hdDhvY |
-| 愛你兩個人   譚詠麟〈歌手演唱版〉 | https://www.youtube.com/watch?v=8bz7jbHWFRE |
-| 愛你兩個人   譚詠麟〈MMO 卡拉版〉 | https://www.youtube.com/watch?v=VhLuPY1_oYg |
-| 愛你太深   譚詠麟〈歌手演唱 HD版 〉 | https://www.youtube.com/watch?v=X9WyU72b1iw |
-| 愛你太深   譚詠麟〈MMO HD版〉 | https://www.youtube.com/watch?v=escHhYRsruM |
-| 愛情陷阱   譚詠麟〈歌手演唱版〉 | https://www.youtube.com/watch?v=-wq4T8Z-p-o |
-| 愛情陷阱   譚詠麟〈卡拉伴奏版〉 | https://www.youtube.com/watch?v=k9RdNy3tlf0 |
-| 愛情陷阱   譚詠麟〈演唱版〉 | https://www.youtube.com/watch?v=By-6rnrSTtA |
-| 愛上你   譚詠麟〈MMO 卡拉版〉 | https://www.youtube.com/watch?v=GmzcVjR-6OI |
-| 愛上你   譚詠麟〈壓聲卡拉版〉 | https://www.youtube.com/watch?v=TNCCPv6BC2Q |
-| 愛是風〈華語〉譚詠麟〈歌手演唱版〉 | https://www.youtube.com/watch?v=PZuESL8U8sM |
-| 愛是風〈華語〉譚詠麟〈卡拉伴奏版〉 | https://www.youtube.com/watch?v=1J7vp617Kvw |
-| 愛是這樣甜   譚詠麟〈歌手演唱 D 調〉 | https://www.youtube.com/watch?v=sT5-jPATIGg |
-| 愛是這樣甜   譚詠麟〈歌手演唱版〉 | https://www.youtube.com/watch?v=sreX6gV2obs |
-| 愛是這樣甜   譚詠麟〈卡拉伴奏版〉 | https://www.youtube.com/watch?v=WkYXxmGHv_s |
-| 愛是這樣甜   譚詠麟〈MMO D 調〉 | https://www.youtube.com/watch?v=z048B6suico |
-| 愛意怎擋   譚詠麟〈歌手演唱版〉 | https://www.youtube.com/watch?v=SR3t7xOUxJQ |
-| 愛與痛的邊緣   譚詠麟〈Live 伴奏版〉 | https://www.youtube.com/watch?v=sQ-fOdsAE0g |
-| 愛與痛的邊緣   譚詠麟〈Live 演唱版〉 | https://www.youtube.com/watch?v=y4UI_ZIMAC8 |
-| 愛在深秋   譚詠麟〈大樂團伴奏版〉 | https://www.youtube.com/watch?v=y3qwkKEuaGw |
-| 愛在深秋   譚詠麟〈歌手演唱版 V 2〉 | https://www.youtube.com/watch?v=ZEMiyf6LM00 |
-| 愛在深秋   譚詠麟〈歌手演唱版〉 | https://www.youtube.com/watch?v=C9AWpzbT7jU |
-| 愛在深秋   譚詠麟〈卡拉伴奏版〉 | https://www.youtube.com/watch?v=uX9raOgkpDQ |
-| 愛在深秋   譚詠麟〈無主旋律卡拉版〉 | https://www.youtube.com/watch?v=qEHFucuCIko |
-| 愛在陽光空氣中   譚詠麟〈Live 卡拉版〉 | https://www.youtube.com/watch?v=Z9E2tVDS4J4 |
-| 愛在陽光空氣中   譚詠麟〈Live 演唱版〉 | https://www.youtube.com/watch?v=GFObut9Gamk |
-| 傲 骨   譚詠麟〈Live 演唱版〉 | https://www.youtube.com/watch?v=HN7tsNM2Kj0 |
-| Baby   譚詠麟〈歌手演唱 HD版〉 | https://www.youtube.com/watch?v=TBEbfFTHBQU |
-| Baby   譚詠麟〈歌手演唱版〉 | https://www.youtube.com/watch?v=1hwgAQCw0tQ |
-| Baby   譚詠麟〈卡拉伴奏版〉 | https://www.youtube.com/watch?v=qFDoVMylds8 |
-| Baby   譚詠麟〈MMO Bb 調〉 | https://www.youtube.com/watch?v=lLDEO0JTcbk |
-| 半夢半醒   譚詠麟〈歌手演唱版〉 | https://www.youtube.com/watch?v=ALvcHjsQ8u4 |
-| 半夢半醒   譚詠麟〈Live 卡拉版〉 | https://www.youtube.com/watch?v=imnxKt0yDf4 |
-| 半夢半醒   譚詠麟〈MMO 卡拉版〉 | https://www.youtube.com/watch?v=ALSdd_sOhXk |
-| 半夢半醒 ‧ 深深深   譚詠麟‧李克勤〈Live演唱版〉 | https://www.youtube.com/watch?v=yugc5kFlT_o |
-| 暴風女神   譚詠麟〈卡拉伴奏版〉 | https://www.youtube.com/watch?v=duiyHAne4eA |
-| 暴風女神   譚詠麟〈Live 卡拉版〉 | https://www.youtube.com/watch?v=cr_ekbi_-OA |
-| 暴風女神   譚詠麟〈Live 演唱版〉 | https://www.youtube.com/watch?v=Q5qjeGz037U |
-| 暴風女神   譚詠麟〈演唱版〉 | https://www.youtube.com/watch?v=uZMqZznLthg |
-| 編織   譚詠麟〈歌手演唱版〉 | https://www.youtube.com/watch?v=zyZJ0IX58Lg |
-| 變奏   譚詠麟〈Live 卡拉版〉 | https://www.youtube.com/watch?v=fCVvPCXqYy8 |
-| 變奏   譚詠麟〈Live 演唱版〉 | https://www.youtube.com/watch?v=xQ00tBSqpBE |
-| 不必伸手給我   譚詠麟〈MMO 卡拉版〉 | https://www.youtube.com/watch?v=mKe5xHvnKp4 |
-| 捕風的漢子   譚詠麟〈卡拉伴奏版〉 | https://www.youtube.com/watch?v=2xcd7u5TnQw |
-| 捕風的漢子   譚詠麟〈MMO B minor版〉 | https://www.youtube.com/watch?v=-MVQSy2PGBQ |
-| 捕風的漢子   譚詠麟〈演唱版〉 | https://www.youtube.com/watch?v=DxiDabgYAxk |
-| 不要問我   譚詠麟〈歌手演唱版〉 | https://www.youtube.com/watch?v=03oxmzGqBwo |
-| 不要問我   譚詠麟〈卡拉伴奏版〉 | https://www.youtube.com/watch?v=o4lqvxKEJ9w |
-| 不一樣的再見   譚詠麟〈歌手演唱 D 調〉 | https://www.youtube.com/watch?v=rDZOVxnET28 |
-| 不一樣的再見   譚詠麟〈MMO D 調〉 | https://www.youtube.com/watch?v=I7H9hkSuca4 |
-| 曾經   譚詠麟〈卡拉伴奏版〉 | https://www.youtube.com/watch?v=CwajbiIxj2A |
-| 曾經   譚詠麟〈MMO Bb 調〉 | https://www.youtube.com/watch?v=dF9PGorhxZM |
-| 曾經   譚詠麟〈演唱版〉 | https://www.youtube.com/watch?v=XKBnLwT3YGs |
-| 唱一首好歌   譚詠麟〈歌手演唱 HD版〉 | https://www.youtube.com/watch?v=Y2GUNOR2HtU |
-| 唱一首好歌   譚詠麟〈歌手演唱版〉 | https://www.youtube.com/watch?v=p1IRTgpUdbs |
-| 唱一首好歌   譚詠麟〈MMO D 調〉 | https://www.youtube.com/watch?v=F6PaxKC7REc |
-| 成功需苦幹   譚詠麟 ‧ 關楚耀 〈Live 演唱版〉 | https://www.youtube.com/watch?v=bG4c5BgGnqU |
-| 成功需苦幹   譚詠麟〈Live 卡拉版〉 | https://www.youtube.com/watch?v=-bYkRw0_6Ks |
-| 遲來的春天   譚詠麟〈歌手演唱版〉 | https://www.youtube.com/watch?v=SNd_KV-SrX8 |
-| 遲來的春天   譚詠麟〈歌手演唱版〉 | https://www.youtube.com/watch?v=JgfOLkdboOc |
-| 遲來的春天   譚詠麟〈卡拉伴奏版〉 | https://www.youtube.com/watch?v=gRH6Supo8AQ |
-| 遲來的春天－譚詠麟〈MMO 卡拉版〉 | https://www.youtube.com/watch?v=c-IQCmKWcb4 |
-| 創造命運   譚詠麟〈MMO 卡拉版〉 | https://www.youtube.com/watch?v=zD8kRZdlmdY |
-| 刺客   譚詠麟 〈MMO 卡拉版〉 | https://www.youtube.com/watch?v=nLWuIIGuJTA |
-| 此刻你在何處   譚詠麟〈歌手演唱版〉 | https://www.youtube.com/watch?v=dm0JM0yEdFc |
-| 此刻你在何處   譚詠麟〈卡拉伴奏版〉 | https://www.youtube.com/watch?v=tpynFe1ZlDk |
-| 此刻你在何處   譚詠麟〈MMO 卡拉版〉 | https://www.youtube.com/watch?v=1Qzzpl8fuN0 |
-| C級愛情   譚詠麟〈MMO HD版〉 | https://www.youtube.com/watch?v=mHoT4I3443M |
-| 等你不等你   譚詠麟〈歌手演唱版〉 | https://www.youtube.com/watch?v=DuVW0seaEVc |
-| 等你不等你   譚詠麟〈MMO 卡拉版〉 | https://www.youtube.com/watch?v=xWDaWzNXqOY |
-| 定風波〈國‧粵 版〉譚詠麟〈歌手演唱 F 調〉 | https://www.youtube.com/watch?v=frJIKK5D9aU |
-| 定風波〈國‧粵 版〉譚詠麟〈MMO F 調〉 | https://www.youtube.com/watch?v=QiJnCWbt6zw |
-| 定風波〈華‧粵語〉譚詠麟〈壓聲卡拉版〉 | https://www.youtube.com/watch?v=LxB1ufS_BbQ |
-| Don’t say goodbye   譚詠麟 〈歌手演唱版〉 | https://www.youtube.com/watch?v=4Eqcj_BEPnM |
-| 獨來獨往   譚詠麟〈歌手演唱版〉 | https://www.youtube.com/watch?v=u6Ifws6Q4dA |
-| 獨來獨往   譚詠麟〈卡拉伴奏版〉 | https://www.youtube.com/watch?v=QdmFpEzWawg |
-| 獨來獨往   譚詠麟〈雙軌聲道 Bb 調〉 | https://www.youtube.com/watch?v=AfJqFSOu18I |
-| 都市戀歌   譚詠麟〈歌手演唱HD版〉 | https://www.youtube.com/watch?v=B13V9ngVrcM |
-| 都市戀歌   譚詠麟〈Live 卡拉版〉 | https://www.youtube.com/watch?v=s6yDqO4sT0Q |
-| 都市戀歌   譚詠麟〈Live 演唱版〉 | https://www.youtube.com/watch?v=kOyyCpNE-cQ |
-| 都市戀歌   譚詠麟〈MMO HD版〉 | https://www.youtube.com/watch?v=m5zwL-YtGMU |
-| 獨一無二   譚詠麟〈歌手演唱版〉 | https://www.youtube.com/watch?v=crvTMjmLqas |
-| 獨一無二   譚詠麟〈MMO 卡拉版〉 | https://www.youtube.com/watch?v=8-Wd_fBbvF8 |
-| 獨醉街頭   譚詠麟〈歌手演唱版〉 | https://www.youtube.com/watch?v=cvM3fE0W7Ik |
-| 獨醉街頭   譚詠麟〈卡拉伴奏版〉 | https://www.youtube.com/watch?v=hopzI68dVow |
-| ELAINE   譚詠麟〈卡拉伴奏版〉 | https://www.youtube.com/watch?v=5evMpBYCPAg |
-| ELAINE   譚詠麟〈演唱版〉 | https://www.youtube.com/watch?v=eXkAQ-sEfXc |
-| 飛 馬   譚詠麟〈卡拉伴奏版〉 | https://www.youtube.com/watch?v=dbFK9GZozPM |
-| 翡翠情緣〈華語〉譚詠麟〈卡拉伴奏版〉 | https://www.youtube.com/watch?v=RZZvG8P1H_w |
-| 飛馬   譚詠麟〈歌手演唱 HD版〉 | https://www.youtube.com/watch?v=xiSgkkxAnZE |
-| 飛馬   譚詠麟〈歌手演唱版〉 | https://www.youtube.com/watch?v=EeTe-H1AQMk |
-| 飛馬   譚詠麟〈MMO E minor版〉 | https://www.youtube.com/watch?v=1GsCkZvzrdw |
-| 飛馬   譚詠麟〈演唱版〉 | https://www.youtube.com/watch?v=gAm4C9acZKI |
-| 風中勁草   蔡國權 ‧ 譚詠麟〈歌手演唱 HD版 〉 | https://www.youtube.com/watch?v=TVquntbXHic |
-| 風中勁草   蔡國權 ‧ 譚詠麟〈歌手演唱版〉 | https://www.youtube.com/watch?v=8UUcFgOeBL0 |
-| 根   譚詠麟 〈 MMO Bb major版〉 | https://www.youtube.com/watch?v=GSLWDYWU0JM |
-| 根   譚詠麟 〈歌手演唱 HD版〉 | https://www.youtube.com/watch?v=03W_hJBflM8 |
-| 孩兒   譚詠麟〈歌手演唱版〉 | https://www.youtube.com/watch?v=roMTRnl2zgE |
-| 孩兒   譚詠麟〈卡拉伴奏版〉 | https://www.youtube.com/watch?v=vPGz7EU4Jv0 |
-| 還是你懂得愛我   譚詠麟〈歌手演唱 HD 版〉 | https://www.youtube.com/watch?v=Odi7yvBh2V0 |
-| 還是你懂得愛我   譚詠麟〈MMO Db major版〉 | https://www.youtube.com/watch?v=2Sq5Vx65Q1o |
-| 還是你懂得愛我   譚詠麟〈原曲壓聲卡拉版〉 | https://www.youtube.com/watch?v=R-2IxfCFWUs |
-| 黑色快車   譚詠麟〈歌手演唱版〉 | https://www.youtube.com/watch?v=zGQoMD4RfhA |
-| 黑色快車   譚詠麟〈MMO 卡拉版〉 | https://www.youtube.com/watch?v=oUGJHyFtZK4 |
-| Hello Goodbye   譚詠麟〈歌手演唱 Eb 調〉 | https://www.youtube.com/watch?v=Rn084bOJ7FY |
-| Hello Goodbye   譚詠麟〈Live 卡拉版〉 | https://www.youtube.com/watch?v=VSy5Udw2dEc |
-| 何謂愛   譚詠麟〈MMO 卡拉版〉 | https://www.youtube.com/watch?v=enf_FZsTOz0 |
-| 紅塵歲月   譚詠麟〈卡拉伴奏版〉 | https://www.youtube.com/watch?v=zdifMaXOzk0 |
-| 幻 影   譚詠麟〈演唱版〉 | https://www.youtube.com/watch?v=hr30NYaSyL8 |
-| 黃昏的聲音   譚詠麟〈歌手演唱版〉 | https://www.youtube.com/watch?v=AmYw_HqYXG0 |
-| 黃昏的聲音   譚詠麟〈卡拉伴奏版〉 | https://www.youtube.com/watch?v=iRPPcxuAWJQ |
-| 幻影－譚詠麟〈MMO 卡拉版〉 | https://www.youtube.com/watch?v=6r__XPTefHg |
-| 活得瀟灑   譚詠麟 ‧ 陳慧嫻〈歌手演唱版〉 | https://www.youtube.com/watch?v=_0McFwtkKys |
-| 活得瀟灑   譚詠麟 ‧ 陳慧嫻〈卡拉伴奏版〉 | https://www.youtube.com/watch?v=iZfZ-cqplWQ |
-| 活得瀟洒   譚詠麟‧陳慧嫻〈對唱卡拉版〉 | https://www.youtube.com/watch?v=96TiL7woJSk |
-| 活得瀟洒   譚詠麟‧陳慧嫻〈歌手演唱版〉 | https://www.youtube.com/watch?v=qwsawyUXtkM |
-| 火美人   譚詠麟〈歌手演唱版〉 | https://www.youtube.com/watch?v=RXDUtbmWy9U |
-| 火美人   譚詠麟〈MMO 卡拉版〉 | https://www.youtube.com/watch?v=nr6U08CRC24 |
-| 假刺激   譚詠麟〈歌手演唱 HD版〉 | https://www.youtube.com/watch?v=-x57xy8qdnU |
-| 假刺激   譚詠麟〈MMO HD版〉 | https://www.youtube.com/watch?v=7Xem3sK9OTQ |
-| 講不出的告別   譚詠麟〈卡拉伴奏版〉 | https://www.youtube.com/watch?v=FbFCpl-0RMU |
-| 講不出的告別   譚詠麟〈演唱版〉 | https://www.youtube.com/watch?v=OkgMNVEOBB4 |
-| 講不出再見   譚詠麟〈歌手演唱 D 調〉 | https://www.youtube.com/watch?v=AeG-cBw5p9E |
-| 講不出再見   譚詠麟〈卡拉伴奏 降音版 3S〉 | https://www.youtube.com/watch?v=oqR-CGzHBMA |
-| 講不出再見   譚詠麟〈MMO 卡拉版〉 | https://www.youtube.com/watch?v=tOPiUzBCWtk |
-| 講不出再見   譚詠麟〈女調 MMO 卡拉版〉 | https://www.youtube.com/watch?v=-9dAq0gXW6Y |
-| 講不出再見 －譚詠麟〈MMO D 調〉 | https://www.youtube.com/watch?v=f-0LcAS16pw |
-| 借來的美夢   譚詠麟〈歌手演唱 HD版〉 | https://www.youtube.com/watch?v=gHdheN9f5YM |
-| 結他的季節   譚詠麟〈歌手演唱 HD版〉 | https://www.youtube.com/watch?v=AYJoC2dnZoY |
-| 幾番風雨   邰正宵〈演唱版〉 | https://www.youtube.com/watch?v=AEDBeU_pJzg |
-| 今夜情為證   譚詠麟〈卡拉伴奏版〉 | https://www.youtube.com/watch?v=UUHlog0L2NY |
-| 今夜情為證   譚詠麟〈MMO 卡拉版〉 | https://www.youtube.com/watch?v=EvloajgCCdA |
-| 今夜情為證 —譚詠麟〈歌手演唱版〉 | https://www.youtube.com/watch?v=rz69V9MHSgg |
-| 計時炸弹   譚詠麟〈歌手演唱版〉 | https://www.youtube.com/watch?v=4wWSZe_IU2I |
-| 計時炸彈   譚詠麟〈MMO 卡拉版〉 | https://www.youtube.com/watch?v=Qnnw9GoAiEY |
-| 酒紅色的心   譚詠麟 〈MMO 卡拉版〉 | https://www.youtube.com/watch?v=Cfga7w2Wu4E |
-| 酒紅色的心   譚詠麟〈歌手演唱版〉 | https://www.youtube.com/watch?v=OJkOS42v5lw |
-| 酒紅色的心   譚詠麟〈卡拉伴奏版〉 | https://www.youtube.com/watch?v=A0148Ay1Tyk |
-| 酒紅色的心   譚詠麟〈MMO HD版〉 | https://www.youtube.com/watch?v=i-wPWlFaDug |
-| 舊信紙   譚詠麟〈卡拉伴奏版〉 | https://www.youtube.com/watch?v=t24pl1ELQAw |
-| 舊信紙   譚詠麟〈MMO HD版〉 | https://www.youtube.com/watch?v=wxu6qCLm1fs |
-| 卡拉永遠OK   譚詠麟〈卡拉伴奏版〉 | https://www.youtube.com/watch?v=AIE3aCEni2Q |
-| 卡拉永遠OK   譚詠麟〈MMO 卡拉版〉 | https://www.youtube.com/watch?v=_04t_7sgYSI |
-| 卡拉永遠OK   譚詠麟〈演唱4K版〉 | https://www.youtube.com/watch?v=QT_1PaFtu1M |
-| 卡拉永遠OK   譚詠麟〈演唱版〉 | https://www.youtube.com/watch?v=VnHpCY2Y5O8 |
-| 狂小子   譚詠麟〈歌手演唱 HD版〉 | https://www.youtube.com/watch?v=kVPs48iBnf4 |
-| 浪漫之後   譚詠麟〈MMO 卡拉版〉 | https://www.youtube.com/watch?v=Rgx7kiHZkxE |
-| 冷傲的化妝   譚詠麟 〈卡拉伴奏版〉 | https://www.youtube.com/watch?v=9-ZTDVc-KAE |
-| 冷傲的化妝   譚詠麟 〈Live演唱版〉 | https://www.youtube.com/watch?v=x1imzRLP19g |
-| 冷傲的化妝   譚詠麟 〈演唱版〉 | https://www.youtube.com/watch?v=PHyEHDPUP0g |
-| 冷傲的化妝   譚詠麟〈歌手演唱 C 調〉 | https://www.youtube.com/watch?v=KHRwZBX1wKo |
-| 冷傲的化妝   譚詠麟〈卡拉伴奏版〉 | https://www.youtube.com/watch?v=WOHuP40p9u4 |
-| 亮了紅燈   譚詠麟 〈歌手演唱版〉 | https://www.youtube.com/watch?v=B3mFIVovLQQ |
-| 亮了紅燈   譚詠麟 〈MMO 卡拉版〉 | https://www.youtube.com/watch?v=YfpoPTHrZOs |
-| 離別酒   譚詠麟〈MMO 卡拉版〉 | https://www.youtube.com/watch?v=NxErxiXCzBE |
-| 離不開的心   譚詠麟〈卡拉伴奏版〉 | https://www.youtube.com/watch?v=yd2x65NWAEo |
-| 凌晨一吻   譚詠麟〈卡拉伴奏版〉 | https://www.youtube.com/watch?v=0bNq6mr2hQU |
-| 凌晨之後   譚詠麟〈MMO 卡拉版〉 | https://www.youtube.com/watch?v=CJ4Qz7LsEu8 |
-| 令世界變得更暖   譚詠麟〈歌手演唱 HD版〉 | https://www.youtube.com/watch?v=BCq9n3S4RRs |
-| 令世界變得更暖   譚詠麟〈MMO HD版〉 | https://www.youtube.com/watch?v=SeV8qnFoDPY |
-| 理想與和平   譚詠麟〈MMO HD版〉 | https://www.youtube.com/watch?v=WrzaLCNDVFE |
-| 矛盾   譚詠麟〈歌手演唱版〉 | https://www.youtube.com/watch?v=zOBEMzjAUPg |
-| 夢仍是一樣   譚詠麟 ‧ 李克勤〈Live 對唱卡拉版〉 | https://www.youtube.com/watch?v=eAtKlnMoAFs |
-| 夢仍是一樣   譚詠麟 ‧ 李克勤〈Live 演唱版〉 | https://www.youtube.com/watch?v=5tiLhonrAXc |
-| 夢醒愛更深   譚詠麟〈歌手演唱版〉 | https://www.youtube.com/watch?v=d3ZzxKhGTOg |
-| 迷痴的心   譚詠麟〈歌手演唱 HD版〉 | https://www.youtube.com/watch?v=4UwbUIvkWRo |
-| 迷痴的心   譚詠麟〈歌手演唱版〉 | https://www.youtube.com/watch?v=7XXwx2cKTV0 |
-| 迷痴的心   譚詠麟〈MMO HD版〉 | https://www.youtube.com/watch?v=6Y1mVTRQGlI |
-| 明天仍要繼續   譚詠麟〈歌手演唱 HD版〉 | https://www.youtube.com/watch?v=FuT7dcF2sBA |
-| 明天仍要繼續   譚詠麟〈MMO HD版〉 | https://www.youtube.com/watch?v=RZ4AMNczl1Q |
-| Missy Mona   譚詠麟 〈歌手演唱版〉 | https://www.youtube.com/watch?v=o7EjV83G478 |
-| Missy Mona   譚詠麟〈MMO 卡拉版〉 | https://www.youtube.com/watch?v=SILSKrDA-yQ |
-| 魔鬼之女   譚詠麟〈歌手演唱版〉 | https://www.youtube.com/watch?v=-Ofda9Iumkk |
-| 魔鬼之女   譚詠麟〈卡拉伴奏版 V 2〉 | https://www.youtube.com/watch?v=skJAK5SkSqs |
-| 魔鬼之女   譚詠麟〈Live 壓聲卡拉版〉 | https://www.youtube.com/watch?v=RqunxxnWCqo |
-| 魔鬼之女   譚詠麟〈MMO Live卡拉版〉 | https://www.youtube.com/watch?v=z_D9S59x5Mg |
-| 莫名的淚   譚詠麟 〈歌手演唱 A 調〉 | https://www.youtube.com/watch?v=rdUT6PFXvI8 |
-| 莫名的淚   譚詠麟〈歌手演唱版〉 | https://www.youtube.com/watch?v=bpynu0UD8Ms |
-| 莫名的淚   譚詠麟〈MMO A 調〉 | https://www.youtube.com/watch?v=cDCVJcDuXxQ |
-| 莫名的淚   譚詠麟〈MMO 卡拉版〉 | https://www.youtube.com/watch?v=L4SxwWu1OVA |
-| 難得糊塗   譚詠麟 ‧ 黃凱芹〈卡拉伴奏版〉 | https://www.youtube.com/watch?v=tSR97JX6v5Q |
-| 你是我的女人   譚詠麟〈歌手演唱版〉 | https://www.youtube.com/watch?v=BTtoCud6dj8 |
-| 你是我的女人   譚詠麟〈卡拉伴奏版〉 | https://www.youtube.com/watch?v=gAkSTneXuYU |
-| 你要等我   譚詠麟 〈歌手演唱HD版〉 | https://www.youtube.com/watch?v=u50V__QuAvc |
-| 你要等我   譚詠麟 〈MMO HD版〉 | https://www.youtube.com/watch?v=_JKLBCPa84A |
-| 你走的那天下著雨   譚詠麟〈歌手演唱版〉 | https://www.youtube.com/watch?v=E-ChdSekg2U |
-| 朋友   譚詠麟〈歌手演唱 HD版〉 | https://www.youtube.com/watch?v=OO98O8o61m4 |
-| 朋友   譚詠麟〈卡拉伴奏版〉 | https://www.youtube.com/watch?v=f8EFCPYLxDk |
-| 偏愛   譚詠麟 ‧ 早見優〈歌手演唱 Eb 調〉 | https://www.youtube.com/watch?v=ahnAn8NSX5E |
-| 偏愛   譚詠麟、早見優〈歌手演唱版〉 | https://www.youtube.com/watch?v=PiS9ATt27mw |
-| 偏愛   譚詠麟、早見優〈MMO Eb 調〉 | https://www.youtube.com/watch?v=co4azsho-Ws |
-| 偏愛   譚詠麟〈卡拉伴奏版〉 | https://www.youtube.com/watch?v=B1bOqtN9LuY |
-| 偏愛   譚詠麟〈女聲伴唱版〉 | https://www.youtube.com/watch?v=SczySfeC2j8 |
-| 牆上的肖像   譚詠麟 〈歌手演唱版〉 | https://www.youtube.com/watch?v=nikBD6iA0h4 |
-| 牆上的肖像   譚詠麟 〈MMO 卡拉版〉 | https://www.youtube.com/watch?v=pSvotv7Lnig |
-| 千面女郎   譚詠麟〈歌手演唱版〉 | https://www.youtube.com/watch?v=h47e7ysslIU |
-| 千面女郎   譚詠麟〈卡拉伴奏版〉 | https://www.youtube.com/watch?v=vdsq-3WZCsI |
-| 千千闕歌   譚詠麟〈歌手演唱版〉 | https://www.youtube.com/watch?v=dXfJgcd2pQo |
-| 千千闕歌   譚詠麟〈MMO 卡拉版〉 | https://www.youtube.com/watch?v=7ZjuinAVeEc |
-| 情 人   譚詠麟〈歌手演唱 HD版〉 | https://www.youtube.com/watch?v=3Jm4uWTMW2s |
-| 情 人   譚詠麟〈卡拉伴奏版〉 | https://www.youtube.com/watch?v=qACazN2vSR0 |
-| 情不變   譚詠麟 〈歌手演唱版〉 | https://www.youtube.com/watch?v=9BMq63vhfNA |
-| 情不變   譚詠麟〈MMO 卡拉版〉 | https://www.youtube.com/watch?v=S5w2AkfxvwM |
-| 青春夢〈華語〉譚詠麟〈歌手演唱版〉 | https://www.youtube.com/watch?v=7O6KIhRRSz4 |
-| 情倆牽   譚詠麟〈歌手演唱版〉 | https://www.youtube.com/watch?v=CPSWCjhtU8E |
-| 情倆牽   譚詠麟〈原曲壓聲卡拉版〉 | https://www.youtube.com/watch?v=3R0UHPkEve4 |
-| 傾我今生   譚詠麟〈MMO HD版〉 | https://www.youtube.com/watch?v=Kk8OXIjDXx0 |
-| 情義倆心知   譚詠麟〈歌手演唱版〉 | https://www.youtube.com/watch?v=2hoq26_gd2E |
-| 情義倆心知   譚詠麟〈卡拉伴奏版〉 | https://www.youtube.com/watch?v=3zVq9DM04U8 |
-| 情緣巴士站   譚詠麟〈卡拉伴奏版〉 | https://www.youtube.com/watch?v=3elmYljmAW8 |
-| 情緣巴士站   譚詠麟〈演唱版〉 | https://www.youtube.com/watch?v=zJ_kbnAipG4 |
-| 情在雪天   譚詠麟 〈卡拉伴奏版〉 | https://www.youtube.com/watch?v=Y9-L4VxnER4 |
-| 讓我繼續忘記你   譚詠麟〈歌手演唱版〉 | https://www.youtube.com/watch?v=-KwvcqyT1Vs |
-| 讓我繼續忘記你   譚詠麟〈MMO 卡拉版〉 | https://www.youtube.com/watch?v=OCHDVU-_4h0 |
-| 讓我繼續忘記你   譚詠麟〈壓聲卡拉版〉 | https://www.youtube.com/watch?v=sLPDq1Tl5DI |
-| 仍在夢裡   譚詠麟〈歌手演唱版〉 | https://www.youtube.com/watch?v=GH7v32F9qUQ |
-| 仍在夢裡   譚詠麟〈MMO 卡拉版〉 | https://www.youtube.com/watch?v=UdL23oQRaEw |
-| 日落時份   譚詠麟〈卡拉伴奏版〉 | https://www.youtube.com/watch?v=MAn11ZjNQu4 |
-| 柔柔河畔   譚詠麟〈歌手演唱版〉 | https://www.youtube.com/watch?v=nzx6gZRk-n4 |
-| 柔柔河畔   譚詠麟〈卡拉伴奏版〉 | https://www.youtube.com/watch?v=WY5KHh9XjB4 |
-| 上善若水   譚詠麟〈歌手演唱版〉 | https://www.youtube.com/watch?v=W9AfTNk8-e4 |
-| 上善若水   譚詠麟〈卡拉伴奏版〉 | https://www.youtube.com/watch?v=1QcXNTXW6sg |
-| 上善若水   譚詠麟〈MMO 卡拉版〉 | https://www.youtube.com/watch?v=mrnRvzkYzig |
-| 傷心帶笑者   譚詠麟〈歌手演唱 HD版〉 | https://www.youtube.com/watch?v=8MZJeeKjJII |
-| 傷心帶笑者   譚詠麟〈MMO HD版〉 | https://www.youtube.com/watch?v=Rot_c1TNHKQ |
-| 山野閒情   譚詠麟〈歌手演唱 HD版〉 | https://www.youtube.com/watch?v=vQh9NVHgQIc |
-| 山野閒情   譚詠麟〈MMO HD版〉 | https://www.youtube.com/watch?v=kERPV38Rj1U |
-| 神的傳說〈華語〉譚詠麟〈歌手演唱版〉 | https://www.youtube.com/watch?v=meEj_Q8vakU |
-| 神的傳說〈華語〉譚詠麟〈壓聲卡拉版〉 | https://www.youtube.com/watch?v=zhYOgkQxZHY |
-| 生命的詩篇    譚詠麟〈純音樂伴奏版〉 | https://www.youtube.com/watch?v=e-nl-HcHTkY |
-| 生命的詩篇    譚詠麟〈歌手演唱版〉 | https://www.youtube.com/watch?v=rYvipoNLw4s |
-| 生命的詩篇    譚詠麟〈卡拉伴奏版〉 | https://www.youtube.com/watch?v=Uv0jd1ppl4s |
-| 世界停頓   譚詠麟〈歌手演唱版〉 | https://www.youtube.com/watch?v=ZF08BvoAUbQ |
-| 誰可比親心    譚詠麟〈MMO HD版〉 | https://www.youtube.com/watch?v=Al-ffs7RR1k |
-| 誰可改變   譚詠麟〈歌手演唱 F 調〉 | https://www.youtube.com/watch?v=6KcSS4jsU9A |
-| 誰可改變   譚詠麟〈歌手演唱版〉 | https://www.youtube.com/watch?v=CksWzBPT6H0 |
-| 誰可改變   譚詠麟〈卡拉伴奏版 V 2〉 | https://www.youtube.com/watch?v=LrigkSuhb5Y |
-| 誰可改變   譚詠麟〈卡拉伴奏版〉 | https://www.youtube.com/watch?v=G5UwpX7RXZY |
-| 誰可改變   譚詠麟〈MMO F 調〉 | https://www.youtube.com/watch?v=m22KhEYamJ8 |
-| 水中花   譚詠麟 ‧ 鄭少秋 ‧ 鍾鎮濤〈歌手演唱 HD版〉 | https://www.youtube.com/watch?v=0YIAqJIyScI |
-| 水中花   譚詠麟〈歌手演唱版〉 | https://www.youtube.com/watch?v=mnU3k6CjVbY |
-| 水中花   譚詠麟〈MMO 卡拉版〉 | https://www.youtube.com/watch?v=-OaT82k6N-w |
-| 水中花   譚詠麟〈演唱版〉 | https://www.youtube.com/watch?v=ARSAafTCfG0 |
-| 俗世洪流   譚詠麟〈卡拉伴奏版〉 | https://www.youtube.com/watch?v=tcb-vD2oqzQ |
-| 俗世洪流   譚詠麟〈演唱版〉 | https://www.youtube.com/watch?v=PSiCQqr5QRA |
-| 天邊一只雁   譚詠麟〈歌手演唱版〉 | https://www.youtube.com/watch?v=IotzfPmabvU |
-| 天邊一只雁   譚詠麟〈MMO 卡拉版〉 | https://www.youtube.com/watch?v=4ZYoz5EpUQM |
-| 天邊一隻雁‧舊歡如夢   譚詠麟‧李克勤〈Live 演唱版〉 | https://www.youtube.com/watch?v=Wavq0mh82WA |
-| 天地初開情已在   譚詠麟〈歌手演唱 HD版〉 | https://www.youtube.com/watch?v=1UxSRrhP0WE |
-| 聽了一夜的雨〈華語〉譚詠麟〈MMO HD版〉 | https://www.youtube.com/watch?v=3qViRHYonxA |
-| 脫胎換骨〈華語〉譚詠麟‧五月天〈原曲壓聲伴奏版〉 | https://www.youtube.com/watch?v=yKpzt1ZU_UM |
-| 忘不了 停不了 逃不掉   譚詠麟〈歌手演唱版〉 | https://www.youtube.com/watch?v=5oyXziK7gOY |
-| 忘不了 停不了 逃不掉   譚詠麟〈MMO 卡拉版〉 | https://www.youtube.com/watch?v=iVBhqdSRRDM |
-| 忘不了你   譚詠麟〈卡拉伴奏版〉 | https://www.youtube.com/watch?v=j6wcX-49e8w |
-| 忘不了你‧深深深   譚詠麟‧李克勤〈Live 演唱版〉 | https://www.youtube.com/watch?v=l9f70YJWulg |
-| 萬能的你   譚詠麟〈歌手演唱 HD版〉 | https://www.youtube.com/watch?v=5dexM69Bdz8 |
-| 萬能的你   譚詠麟〈MMO HD版〉 | https://www.youtube.com/watch?v=KUYlIaZZy8Y |
-| 問   譚詠麟〈歌手演唱版〉 | https://www.youtube.com/watch?v=les1vVyp0nE |
-| 吻別   譚詠麟〈卡拉伴奏版〉 | https://www.youtube.com/watch?v=9o1tLHVmVbs |
-| 吻別   譚詠麟〈演唱版〉 | https://www.youtube.com/watch?v=oPLBD5WE7Wc |
-| 吻別   譚詠麟〈足本演唱版〉 | https://www.youtube.com/watch?v=TkZCUHiKsIs |
-| 吻別－譚詠麟〈歌手演唱版〉 | https://www.youtube.com/watch?v=78jFPlITdSw |
-| 吻別－譚詠麟〈MMO 卡拉版〉 | https://www.youtube.com/watch?v=_a4mfkt4ts4 |
-| 我愛雀斑   譚詠麟〈歌手演唱 HD版〉 | https://www.youtube.com/watch?v=eqReqDB2FAE |
-| 我愛雀斑   譚詠麟〈MMO HD版〉 | https://www.youtube.com/watch?v=qY2xAf7GKhU |
-| 我愛世界   譚詠麟〈歌手演唱 HD版〉 | https://www.youtube.com/watch?v=FxU8yjFwmjw |
-| 我愛世界   譚詠麟〈MMO HD版〉 | https://www.youtube.com/watch?v=q0McTMwAbvY |
-| 我的背後你的手   譚詠麟〈歌手演唱版〉 | https://www.youtube.com/watch?v=wM6C4uN5T_E |
-| 我的生命我的愛   譚詠麟〈歌手演唱 HD版〉 | https://www.youtube.com/watch?v=G8MzHCfjj80 |
-| 我的生命我的愛   譚詠麟〈歌手演唱版〉 | https://www.youtube.com/watch?v=ZWwOzy_Iz1I |
-| 我的生命我的愛   譚詠麟〈卡拉伴奏版〉 | https://www.youtube.com/watch?v=HWUmHJJjmPg |
-| 我心喜歡妳   譚詠麟 〈MMO 卡拉版〉 | https://www.youtube.com/watch?v=LzK7Zi_ATbM |
-| 我心喜歡你   譚詠麟〈歌手演唱版〉 | https://www.youtube.com/watch?v=D34j_wJ8hvA |
-| 我心喜歡你   譚詠麟〈原曲壓聲卡拉版〉 | https://www.youtube.com/watch?v=v3QnqExrOyw |
-| 我心只有你   譚詠麟〈歌手演唱版〉 | https://www.youtube.com/watch?v=zqmBHvYOnFc |
-| 我心只有你   譚詠麟〈原曲壓聲卡拉版〉 | https://www.youtube.com/watch?v=m3z_0A2NtQ0 |
-| 我永遠都愛你   譚詠麟〈歌手演唱版〉 | https://www.youtube.com/watch?v=D-nLwG0w-ZE |
-| 我永遠都愛你   譚詠麟〈卡拉伴奏版〉 | https://www.youtube.com/watch?v=t_nbgG5F9Ys |
-| 無邊的思憶   譚詠麟〈MMO Eb 調〉 | https://www.youtube.com/watch?v=9awpjYNYfE8 |
-| 無盡情結   譚詠麟〈歌手演唱版〉 | https://www.youtube.com/watch?v=6wlndnVfD2s |
-| 無盡情結   譚詠麟〈卡拉伴奏版〉 | https://www.youtube.com/watch?v=WHO0N9eucdQ |
-| 無限感覺在這天   譚詠麟〈歌手演唱 HD版〉 | https://www.youtube.com/watch?v=TPbTxbV0eWM |
-| 無言感激   譚詠麟〈歌手演唱 G 調〉 | https://www.youtube.com/watch?v=alNfDgPDUMM |
-| 無言感激   譚詠麟〈歌手演唱版〉 | https://www.youtube.com/watch?v=Fn9a6DPGk6w |
-| 無言感激   譚詠麟〈卡拉伴奏版〉 | https://www.youtube.com/watch?v=gyhhBUbgKLs |
-| 午夜戀人路   譚詠麟〈MMO 卡拉版〉 | https://www.youtube.com/watch?v=sl_GzqCyNFc |
-| 午夜戀人路   譚詠麟〈壓聲卡拉版〉 | https://www.youtube.com/watch?v=ruBfIX5Pcq0 |
-| 午夜麗人   譚詠麟〈歌手演唱版〉 | https://www.youtube.com/watch?v=pZW_a3WfCQA |
-| 午夜麗人   譚詠麟〈卡拉伴奏版〉 | https://www.youtube.com/watch?v=ZKBer4GuVSQ |
-| 午夜戰士   譚詠麟 〈MMO Bbm 調〉 | https://www.youtube.com/watch?v=J6-0-_-cmuE |
-| 午夜戰士   譚詠麟〈歌手演唱 HD版〉 | https://www.youtube.com/watch?v=kwSOVqQbjQQ |
-| 霧之戀   譚詠麟 ‧ 李克勤〈Live 對唱卡拉版〉 | https://www.youtube.com/watch?v=XyJ6ONcOyVs |
-| 霧之戀   譚詠麟 ‧ 李克勤〈Live 演唱版〉 | https://www.youtube.com/watch?v=m91dOI7XFbI |
-| 霧之戀   譚詠麟〈歌手演唱 HD版〉 | https://www.youtube.com/watch?v=z6GFZLS2UEc |
-| 霧之戀   譚詠麟〈卡拉伴奏版〉 | https://www.youtube.com/watch?v=pUWIg6x_3Ow |
-| 霧之戀   譚詠麟〈MMO D major版〉 | https://www.youtube.com/watch?v=u1fg0gYFAIk |
-| 霧之戀   譚詠麟〈演唱版〉 | https://www.youtube.com/watch?v=JNl-Vtn83VE |
-| 喜愛   譚詠麟 〈歌手演唱版〉 | https://www.youtube.com/watch?v=ZvhSkQnseyE |
-| 想將來   譚詠麟〈歌手演唱 Em 調〉 | https://www.youtube.com/watch?v=VROBoGgY1P8 |
-| 想將來   譚詠麟〈歌手演唱版〉 | https://www.youtube.com/watch?v=DdozLQvJGo0 |
-| 想將來   譚詠麟〈卡拉伴奏版〉 | https://www.youtube.com/watch?v=4fNuS2lTOQI |
-| 想將來   譚詠麟〈MMO Em 調〉 | https://www.youtube.com/watch?v=WR8tDhF81As |
-| 相識非偶然   譚詠麟〈MMO 卡拉版〉 | https://www.youtube.com/watch?v=dQGE3XFk2Bs |
-| 小風波   譚詠麟〈MMO 卡拉版〉 | https://www.youtube.com/watch?v=3NZSjkmpI-c |
-| 小珊瑚   譚詠麟〈歌手演唱版〉 | https://www.youtube.com/watch?v=L4hu8DOSw5Y |
-| 小珊瑚   譚詠麟〈卡拉伴奏版〉 | https://www.youtube.com/watch?v=IAWqIcbgOMI |
-| 小説人生   譚詠麟〈歌手演唱版〉 | https://www.youtube.com/watch?v=oAtnyhV4rFc |
-| 小説人生   譚詠麟〈卡拉伴奏版〉 | https://www.youtube.com/watch?v=U2lGtGLD-Vw |
-| 夏日寒風   譚詠麟〈歌手演唱 Fm 調〉 | https://www.youtube.com/watch?v=94NvLe2QT1I |
-| 夏日寒風   譚詠麟〈演唱版〉 | https://www.youtube.com/watch?v=wrBnMHYa-oQ |
-| 星球本色   譚詠麟〈MMO HD版〉 | https://www.youtube.com/watch?v=TM9byak-8hA |
-| 樣樣做到好   譚詠麟〈卡拉伴奏版〉 | https://www.youtube.com/watch?v=W5NoWodkdRA |
-| 遙 望   譚詠麟〈卡拉伴奏版〉 | https://www.youtube.com/watch?v=wr75SJQ4wEM |
-| 遙望   譚詠麟〈演唱版〉 | https://www.youtube.com/watch?v=9gf8SADmJJo |
-| 也曾相識   譚詠麟〈卡拉伴奏版〉 | https://www.youtube.com/watch?v=VXiCFxrwTE8 |
-| 也曾相識   譚詠麟〈MMO 卡拉版〉 | https://www.youtube.com/watch?v=SL8x_csueaA |
-| 夜未央〈華語〉譚詠麟〈歌手演唱 HD版〉 | https://www.youtube.com/watch?v=Yt1_aqVJsnM |
-| 夜未央〈華語〉譚詠麟〈MMO A 調〉 | https://www.youtube.com/watch?v=tlEhY4MFBRM |
-| 一段浪漫   譚詠麟〈MMO G major版〉 | https://www.youtube.com/watch?v=UEj3k_8CTJg |
-| 一個永遠不好的傷口   譚詠麟〈Live 卡拉版〉 | https://www.youtube.com/watch?v=MHMOBL1WDaU |
-| 一片天   譚詠麟〈歌手演唱 HD版〉 | https://www.youtube.com/watch?v=dH0NOUCD7JA |
-| 一片天   譚詠麟〈歌手演唱 HD版〉 | https://www.youtube.com/watch?v=XzL2vQSKx0w |
-| 一片天   譚詠麟〈歌手演唱版〉 | https://www.youtube.com/watch?v=CfeevxGpzHo |
-| 一片天   譚詠麟〈MMO Dm 調〉 | https://www.youtube.com/watch?v=09hJUSIM3Cs |
-| 一片天   譚詠麟〈MMO Dm 調〉 | https://www.youtube.com/watch?v=COxaAxBL41U |
-| 一生不變 ‧  一生中最愛   譚詠麟‧李克勤〈Live 卡拉版〉 | https://www.youtube.com/watch?v=jkmNS7g9g-k |
-| 一生不變 ‧  一生中最愛   譚詠麟‧李克勤〈Live 演唱版〉 | https://www.youtube.com/watch?v=uTTpdKdw6ck |
-| 一生中最愛   譚詠麟〈卡拉伴奏版〉 | https://www.youtube.com/watch?v=wetmvP9lXUw |
-| 一生中最愛   譚詠麟〈MMO 卡拉版〉 | https://www.youtube.com/watch?v=kHNZRzT5BC8 |
-| 一生中最愛   譚詠麟〈演唱版〉 | https://www.youtube.com/watch?v=9Vt8oZPoM7M |
-| 一生中最愛 －譚詠麟〈歌手演唱版〉 | https://www.youtube.com/watch?v=TJtEg2YBh-g |
-| 一世風雲   譚詠麟〈歌手演唱版〉 | https://www.youtube.com/watch?v=i4nsQMwf5A4 |
-| 一世風雲   譚詠麟〈卡拉Trim伴奏版〉 | https://www.youtube.com/watch?v=VNjTLFVOoao |
-| 一世風雲   譚詠麟〈演唱版〉 | https://www.youtube.com/watch?v=Ze8DtEgkMFo |
-| 一首歌一個故事   譚詠麟〈歌手演唱 HD版〉 | https://www.youtube.com/watch?v=5YG1Ah27vmc |
-| 一首歌一個故事   譚詠麟〈MMO B 調〉 | https://www.youtube.com/watch?v=aS4_juLtw7I |
-| 擁 抱   譚詠麟〈演唱版〉 | https://www.youtube.com/watch?v=rXp3gQ5NcxI |
-| 永不想你   譚詠麟〈歌手演唱 G 調〉 | https://www.youtube.com/watch?v=GVZXmLjhILg |
-| 永不想你   譚詠麟〈卡拉伴奏版〉 | https://www.youtube.com/watch?v=WpKJR5Cr7BA |
-| 永不想你   譚詠麟〈MMO G 調〉 | https://www.youtube.com/watch?v=8lgBrIQrRr4 |
-| 永遠都深愛你   譚詠麟〈歌手演唱版〉 | https://www.youtube.com/watch?v=P-WaJsbGrfg |
-| 有淚不輕流   譚詠麟〈歌手演唱 HD版〉 | https://www.youtube.com/watch?v=hAYwDeJatjA |
-| 有淚不輕流   譚詠麟〈MMO HD版〉 | https://www.youtube.com/watch?v=PbY1pHffFjk |
-| 緣份有限期   譚詠麟〈歌手演唱 HD版〉 | https://www.youtube.com/watch?v=m4X0U2rlqEs |
-| 緣份有限期   譚詠麟〈歌手演唱版〉 | https://www.youtube.com/watch?v=epLVVErRYXU |
-| 緣份有限期   譚詠麟〈MMO D 調〉 | https://www.youtube.com/watch?v=DgqFPkYmZms |
-| 緣份有限期   譚詠麟〈MMO 卡拉版〉 | https://www.youtube.com/watch?v=zfRmm612liw |
-| 緣份有限期   譚詠麟〈壓聲卡拉版〉 | https://www.youtube.com/watch?v=Mhz3j9Unzao |
-| 緣盡愛更痴   譚詠麟〈卡拉伴奏版〉 | https://www.youtube.com/watch?v=9YwMQdItLvg |
-| 緣盡愛更痴   譚詠麟〈演唱版〉 | https://www.youtube.com/watch?v=_6cBof2IEnw |
-| 緣未了   譚詠麟〈歌手演唱版〉 | https://www.youtube.com/watch?v=qilZ7MDziMU |
-| 緣未了   譚詠麟〈MMO 卡拉版〉 | https://www.youtube.com/watch?v=CTCa8ndATa8 |
-| 雲似是你   譚詠麟〈歌手演唱 HD版〉 | https://www.youtube.com/watch?v=oFgb_0ki33k |
-| 雲似是你   譚詠麟〈MMO HD版〉 | https://www.youtube.com/watch?v=Y15-zz8LnSo |
-| 雨絲 情愁   譚詠麟〈歌手演唱版〉 | https://www.youtube.com/watch?v=E5lGD8Smb1c |
-| 雨絲 情愁   譚詠麟〈Live 卡拉版〉 | https://www.youtube.com/watch?v=c10kzkRy6bk |
-| 雨絲 情愁   譚詠麟〈Live 演唱版〉 | https://www.youtube.com/watch?v=YEO9mPhOmFY |
-| 雨絲 情愁   譚詠麟〈MMO 卡拉版〉 | https://www.youtube.com/watch?v=Z8vK1pD5pK0 |
-| 雨絲情愁‧飛花   譚詠麟 ‧ 李克勤〈Live 卡拉版〉 | https://www.youtube.com/watch?v=HYS5P_PI5mU |
-| 雨絲情愁‧飛花   譚詠麟 ‧ 李克勤〈Live 演唱版〉 | https://www.youtube.com/watch?v=fcLost7ZliE |
-| 雨夜的浪漫   譚詠麟〈歌手演唱 Em 調〉 | https://www.youtube.com/watch?v=hH4cS_5GAbY |
-| 雨夜的浪漫   譚詠麟〈卡拉伴奏版〉 | https://www.youtube.com/watch?v=4nD3a-5uBX8 |
-| 雨夜的浪漫   譚詠麟〈演唱版〉 | https://www.youtube.com/watch?v=YLsdRYaU2WM |
-| 再等幾天   譚詠麟 〈卡拉伴奏版〉 | https://www.youtube.com/watch?v=FUiZOIFltvg |
-| 再等幾天   譚詠麟 〈演唱版〉 | https://www.youtube.com/watch?v=wUlAbVRAmfo |
-| 再見吧浪漫   譚詠麟〈歌手演唱版〉 | https://www.youtube.com/watch?v=niXmi4LLdnU |
-| 再見亦是淚   譚詠麟〈歌手演唱 HD版〉 | https://www.youtube.com/watch?v=y_9vaWuo-nk |
-| 再見亦是淚   譚詠麟〈Live 卡拉版〉 | https://www.youtube.com/watch?v=ZG1CWA68YXU |
-| 再見亦是淚   譚詠麟〈MMO Cm 調〉 | https://www.youtube.com/watch?v=Tl58Vp5nmO4 |
-| 再續無盡愛   譚詠麟〈歌手演唱版〉 | https://www.youtube.com/watch?v=y3lI60UpiPA |
-| 再續無盡愛   譚詠麟〈卡拉伴奏版〉 | https://www.youtube.com/watch?v=dFbrgA2gfDk |
-| 再續無盡愛   譚詠麟〈MMO HD版〉 | https://www.youtube.com/watch?v=fsK0dn3WJfU |
-| 暫 別   譚詠麟 ‧ 雷安娜〈歌手演唱版〉 | https://www.youtube.com/watch?v=hIMOBYy3dsU |
-| 珍惜的珍惜   譚詠麟〈歌手演唱 G 調〉 | https://www.youtube.com/watch?v=LJ_teEMbSq8 |
-| 珍惜的珍惜   譚詠麟〈歌手演唱版〉 | https://www.youtube.com/watch?v=to6nn7x4B0I |
-| 珍惜的珍惜   譚詠麟〈歌手演唱版〉 | https://www.youtube.com/watch?v=rfZei7uHnBQ |
-| 珍惜的珍惜   譚詠麟〈卡拉伴奏版〉 | https://www.youtube.com/watch?v=qV0nfWHHyQI |
-| 珍惜的珍惜   譚詠麟〈卡拉伴奏版〉 | https://www.youtube.com/watch?v=LXqoQisVliw |
-| 珍惜的珍惜   譚詠麟〈MMO 卡拉版〉 | https://www.youtube.com/watch?v=5kjfY-a4Amc |
-| 珍重   譚詠麟〈歌手演唱版〉 | https://www.youtube.com/watch?v=Yf-uIDsSa1o |
-| 珍重   譚詠麟〈卡拉伴奏版〉 | https://www.youtube.com/watch?v=artyYsV5H0o |
-| 珍重   譚詠麟〈MMO 卡拉版〉 | https://www.youtube.com/watch?v=906crm5maN4 |
-| 珍重   譚詠麟〈演唱版〉 | https://www.youtube.com/watch?v=sjOj7fUBE-c |
-| 知不知   譚詠麟〈歌手演唱 HD版〉 | https://www.youtube.com/watch?v=VqmcN2KEo3M |
-| 知不知   譚詠麟〈歌手演唱版〉 | https://www.youtube.com/watch?v=tlJbeY4hZeA |
-| 知不知   譚詠麟〈Live 卡拉版〉 | https://www.youtube.com/watch?v=kNFCpm3KFOE |
-| 知不知   譚詠麟〈MMO F major版〉 | https://www.youtube.com/watch?v=MPwev0dNq4E |
-| 知不知   譚詠麟〈MMO 卡拉版〉 | https://www.youtube.com/watch?v=Shlmi-BwT54 |
-| 知不知   譚詠麟〈演唱版〉 | https://www.youtube.com/watch?v=ZiVcgMMo0VQ |
-| 知心當玩偶   譚詠麟 〈歌手演唱版〉 | https://www.youtube.com/watch?v=32rFrrSqBZI |
-| 知心當玩偶   譚詠麟 〈MMO 卡拉版〉 | https://www.youtube.com/watch?v=1PGPgITPYz0 |
-| 只有你   譚詠麟〈卡拉伴奏版〉 | https://www.youtube.com/watch?v=FZ51E6-HXR4 |
-| 只有你   譚詠麟〈演唱版〉 | https://www.youtube.com/watch?v=bXeVKC5aBDA |
-| 只有知心一個   譚詠麟〈歌手演唱版〉 | https://www.youtube.com/watch?v=rSY3XD6cchA |
-| 只有知心一個   譚詠麟〈卡拉伴奏版〉 | https://www.youtube.com/watch?v=6b4CdzN7LyE |
-| 至尊無上    譚詠麟〈歌手演唱版〉 | https://www.youtube.com/watch?v=Gag-apU5F8s |
-| 至尊無上    譚詠麟〈原曲壓聲卡拉版〉 | https://www.youtube.com/watch?v=upph1SNIiQw |
-| 至尊無上   譚詠麟〈歌手演唱版〉 | https://www.youtube.com/watch?v=7RKBwlHKY7k |
-| 至尊無上   譚詠麟〈MMO 卡拉版〉 | https://www.youtube.com/watch?v=7g45IkdsYys |
-| 最愛的你   譚詠麟〈歌手演唱版〉 | https://www.youtube.com/watch?v=Z4wI0mUAlPw |
-| 最愛的你   譚詠麟〈MMO 卡拉版〉 | https://www.youtube.com/watch?v=e6ZUe1JLTWE |
-| 最愛的你 譚詠麟〈歌手演唱 D 調〉 | https://www.youtube.com/watch?v=wLJqZ5VUIw8 |
-| 最愛的你 譚詠麟〈MMO D 調〉 | https://www.youtube.com/watch?v=T7u2oro0JTg |
-| 最愛是誰   譚詠麟〈卡拉伴奏版〉 | https://www.youtube.com/watch?v=JyunCtWwJRQ |
+- [愛的根源   譚詠麟〈卡拉伴奏版〉](https://www.youtube.com/watch?v=QHwwx3p-zNQ)
+- [愛的根源 －譚詠麟〈演唱版〉](https://www.youtube.com/watch?v=NnNWiPyM-MA)
+- [愛的逃兵   譚詠麟〈歌手演唱版〉](https://www.youtube.com/watch?v=OgIE74j0xws)
+- [愛的逃兵   譚詠麟〈MMO 卡拉版〉](https://www.youtube.com/watch?v=HCGhOGti7dM)
+- [愛的逃兵   譚詠麟〈壓聲卡拉版〉](https://www.youtube.com/watch?v=GpZvj_v-U-0)
+- [愛的替身‧誰可改變   譚詠麟‧李克勤〈Live 卡拉版〉](https://www.youtube.com/watch?v=aME88eqpagw)
+- [愛多一次 痛多一次   譚詠麟〈歌手演 HD版〉](https://www.youtube.com/watch?v=XCRgLhCCl9Y)
+- [愛多一次 痛多一次   譚詠麟〈卡拉伴奏版〉](https://www.youtube.com/watch?v=2NWKbOPenkY)
+- [愛多一次 痛多一次   譚詠麟〈MMO C major版〉](https://www.youtube.com/watch?v=YuluriDcxBU)
+- [愛莫能助   譚詠麟〈MMO HD版〉](https://www.youtube.com/watch?v=NU5U2Ep34V0)
+- [愛念   譚詠麟〈歌手演唱版〉](https://www.youtube.com/watch?v=99N8kpIe7Fg)
+- [愛念   譚詠麟〈MMO 卡拉版〉](https://www.youtube.com/watch?v=H9PD_hdDhvY)
+- [愛你兩個人   譚詠麟〈歌手演唱版〉](https://www.youtube.com/watch?v=8bz7jbHWFRE)
+- [愛你兩個人   譚詠麟〈MMO 卡拉版〉](https://www.youtube.com/watch?v=VhLuPY1_oYg)
+- [愛你太深   譚詠麟〈歌手演唱 HD版 〉](https://www.youtube.com/watch?v=X9WyU72b1iw)
+- [愛你太深   譚詠麟〈MMO HD版〉](https://www.youtube.com/watch?v=escHhYRsruM)
+- [愛情陷阱   譚詠麟〈歌手演唱版〉](https://www.youtube.com/watch?v=-wq4T8Z-p-o)
+- [愛情陷阱   譚詠麟〈卡拉伴奏版〉](https://www.youtube.com/watch?v=k9RdNy3tlf0)
+- [愛情陷阱   譚詠麟〈演唱版〉](https://www.youtube.com/watch?v=By-6rnrSTtA)
+- [愛上你   譚詠麟〈MMO 卡拉版〉](https://www.youtube.com/watch?v=GmzcVjR-6OI)
+- [愛上你   譚詠麟〈壓聲卡拉版〉](https://www.youtube.com/watch?v=TNCCPv6BC2Q)
+- [愛是風〈華語〉譚詠麟〈歌手演唱版〉](https://www.youtube.com/watch?v=PZuESL8U8sM)
+- [愛是風〈華語〉譚詠麟〈卡拉伴奏版〉](https://www.youtube.com/watch?v=1J7vp617Kvw)
+- [愛是這樣甜   譚詠麟〈歌手演唱 D 調〉](https://www.youtube.com/watch?v=sT5-jPATIGg)
+- [愛是這樣甜   譚詠麟〈歌手演唱版〉](https://www.youtube.com/watch?v=sreX6gV2obs)
+- [愛是這樣甜   譚詠麟〈卡拉伴奏版〉](https://www.youtube.com/watch?v=WkYXxmGHv_s)
+- [愛是這樣甜   譚詠麟〈MMO D 調〉](https://www.youtube.com/watch?v=z048B6suico)
+- [愛意怎擋   譚詠麟〈歌手演唱版〉](https://www.youtube.com/watch?v=SR3t7xOUxJQ)
+- [愛與痛的邊緣   譚詠麟〈Live 伴奏版〉](https://www.youtube.com/watch?v=sQ-fOdsAE0g)
+- [愛與痛的邊緣   譚詠麟〈Live 演唱版〉](https://www.youtube.com/watch?v=y4UI_ZIMAC8)
+- [愛在深秋   譚詠麟〈大樂團伴奏版〉](https://www.youtube.com/watch?v=y3qwkKEuaGw)
+- [愛在深秋   譚詠麟〈歌手演唱版 V 2〉](https://www.youtube.com/watch?v=ZEMiyf6LM00)
+- [愛在深秋   譚詠麟〈歌手演唱版〉](https://www.youtube.com/watch?v=C9AWpzbT7jU)
+- [愛在深秋   譚詠麟〈卡拉伴奏版〉](https://www.youtube.com/watch?v=uX9raOgkpDQ)
+- [愛在深秋   譚詠麟〈無主旋律卡拉版〉](https://www.youtube.com/watch?v=qEHFucuCIko)
+- [愛在陽光空氣中   譚詠麟〈Live 卡拉版〉](https://www.youtube.com/watch?v=Z9E2tVDS4J4)
+- [愛在陽光空氣中   譚詠麟〈Live 演唱版〉](https://www.youtube.com/watch?v=GFObut9Gamk)
+- [傲 骨   譚詠麟〈Live 演唱版〉](https://www.youtube.com/watch?v=HN7tsNM2Kj0)
 
+----
+
+## B
+
+- [Baby   譚詠麟〈歌手演唱 HD版〉](https://www.youtube.com/watch?v=TBEbfFTHBQU)
+- [Baby   譚詠麟〈歌手演唱版〉](https://www.youtube.com/watch?v=1hwgAQCw0tQ)
+- [Baby   譚詠麟〈卡拉伴奏版〉](https://www.youtube.com/watch?v=qFDoVMylds8)
+- [Baby   譚詠麟〈MMO Bb 調〉](https://www.youtube.com/watch?v=lLDEO0JTcbk)
+- [半夢半醒   譚詠麟〈歌手演唱版〉](https://www.youtube.com/watch?v=ALvcHjsQ8u4)
+- [半夢半醒   譚詠麟〈Live 卡拉版〉](https://www.youtube.com/watch?v=imnxKt0yDf4)
+- [半夢半醒   譚詠麟〈MMO 卡拉版〉](https://www.youtube.com/watch?v=ALSdd_sOhXk)
+- [半夢半醒 ‧ 深深深   譚詠麟‧李克勤〈Live演唱版〉](https://www.youtube.com/watch?v=yugc5kFlT_o)
+- [暴風女神   譚詠麟〈卡拉伴奏版〉](https://www.youtube.com/watch?v=duiyHAne4eA)
+- [暴風女神   譚詠麟〈Live 卡拉版〉](https://www.youtube.com/watch?v=cr_ekbi_-OA)
+- [暴風女神   譚詠麟〈Live 演唱版〉](https://www.youtube.com/watch?v=Q5qjeGz037U)
+- [暴風女神   譚詠麟〈演唱版〉](https://www.youtube.com/watch?v=uZMqZznLthg)
+- [編織   譚詠麟〈歌手演唱版〉](https://www.youtube.com/watch?v=zyZJ0IX58Lg)
+- [變奏   譚詠麟〈Live 卡拉版〉](https://www.youtube.com/watch?v=fCVvPCXqYy8)
+- [變奏   譚詠麟〈Live 演唱版〉](https://www.youtube.com/watch?v=xQ00tBSqpBE)
+- [不必伸手給我   譚詠麟〈MMO 卡拉版〉](https://www.youtube.com/watch?v=mKe5xHvnKp4)
+- [捕風的漢子   譚詠麟〈卡拉伴奏版〉](https://www.youtube.com/watch?v=2xcd7u5TnQw)
+- [捕風的漢子   譚詠麟〈MMO B minor版〉](https://www.youtube.com/watch?v=-MVQSy2PGBQ)
+- [捕風的漢子   譚詠麟〈演唱版〉](https://www.youtube.com/watch?v=DxiDabgYAxk)
+- [不要問我   譚詠麟〈歌手演唱版〉](https://www.youtube.com/watch?v=03oxmzGqBwo)
+- [不要問我   譚詠麟〈卡拉伴奏版〉](https://www.youtube.com/watch?v=o4lqvxKEJ9w)
+- [不一樣的再見   譚詠麟〈歌手演唱 D 調〉](https://www.youtube.com/watch?v=rDZOVxnET28)
+- [不一樣的再見   譚詠麟〈MMO D 調〉](https://www.youtube.com/watch?v=I7H9hkSuca4)
+
+----
+
+## C
+
+- [曾經   譚詠麟〈卡拉伴奏版〉](https://www.youtube.com/watch?v=CwajbiIxj2A)
+- [曾經   譚詠麟〈MMO Bb 調〉](https://www.youtube.com/watch?v=dF9PGorhxZM)
+- [曾經   譚詠麟〈演唱版〉](https://www.youtube.com/watch?v=XKBnLwT3YGs)
+- [唱一首好歌   譚詠麟〈歌手演唱 HD版〉](https://www.youtube.com/watch?v=Y2GUNOR2HtU)
+- [唱一首好歌   譚詠麟〈歌手演唱版〉](https://www.youtube.com/watch?v=p1IRTgpUdbs)
+- [唱一首好歌   譚詠麟〈MMO D 調〉](https://www.youtube.com/watch?v=F6PaxKC7REc)
+- [成功需苦幹   譚詠麟 ‧ 關楚耀 〈Live 演唱版〉](https://www.youtube.com/watch?v=bG4c5BgGnqU)
+- [成功需苦幹   譚詠麟〈Live 卡拉版〉](https://www.youtube.com/watch?v=-bYkRw0_6Ks)
+- [遲來的春天   譚詠麟〈歌手演唱版〉](https://www.youtube.com/watch?v=SNd_KV-SrX8)
+- [遲來的春天   譚詠麟〈歌手演唱版〉](https://www.youtube.com/watch?v=JgfOLkdboOc)
+- [遲來的春天   譚詠麟〈卡拉伴奏版〉](https://www.youtube.com/watch?v=gRH6Supo8AQ)
+- [遲來的春天－譚詠麟〈MMO 卡拉版〉](https://www.youtube.com/watch?v=c-IQCmKWcb4)
+- [創造命運   譚詠麟〈MMO 卡拉版〉](https://www.youtube.com/watch?v=zD8kRZdlmdY)
+- [刺客   譚詠麟 〈MMO 卡拉版〉](https://www.youtube.com/watch?v=nLWuIIGuJTA)
+- [此刻你在何處   譚詠麟〈歌手演唱版〉](https://www.youtube.com/watch?v=dm0JM0yEdFc)
+- [此刻你在何處   譚詠麟〈卡拉伴奏版〉](https://www.youtube.com/watch?v=tpynFe1ZlDk)
+- [此刻你在何處   譚詠麟〈MMO 卡拉版〉](https://www.youtube.com/watch?v=1Qzzpl8fuN0)
+- [C級愛情   譚詠麟〈MMO HD版〉](https://www.youtube.com/watch?v=mHoT4I3443M)
+
+----
+
+## D
+
+- [等你不等你   譚詠麟〈歌手演唱版〉](https://www.youtube.com/watch?v=DuVW0seaEVc)
+- [等你不等你   譚詠麟〈MMO 卡拉版〉](https://www.youtube.com/watch?v=xWDaWzNXqOY)
+- [定風波〈國‧粵 版〉譚詠麟〈歌手演唱 F 調〉](https://www.youtube.com/watch?v=frJIKK5D9aU)
+- [定風波〈國‧粵 版〉譚詠麟〈MMO F 調〉](https://www.youtube.com/watch?v=QiJnCWbt6zw)
+- [定風波〈華‧粵語〉譚詠麟〈壓聲卡拉版〉](https://www.youtube.com/watch?v=LxB1ufS_BbQ)
+- [Don’t say goodbye   譚詠麟 〈歌手演唱版〉](https://www.youtube.com/watch?v=4Eqcj_BEPnM)
+- [獨來獨往   譚詠麟〈歌手演唱版〉](https://www.youtube.com/watch?v=u6Ifws6Q4dA)
+- [獨來獨往   譚詠麟〈卡拉伴奏版〉](https://www.youtube.com/watch?v=QdmFpEzWawg)
+- [獨來獨往   譚詠麟〈雙軌聲道 Bb 調〉](https://www.youtube.com/watch?v=AfJqFSOu18I)
+- [都市戀歌   譚詠麟〈歌手演唱HD版〉](https://www.youtube.com/watch?v=B13V9ngVrcM)
+- [都市戀歌   譚詠麟〈Live 卡拉版〉](https://www.youtube.com/watch?v=s6yDqO4sT0Q)
+- [都市戀歌   譚詠麟〈Live 演唱版〉](https://www.youtube.com/watch?v=kOyyCpNE-cQ)
+- [都市戀歌   譚詠麟〈MMO HD版〉](https://www.youtube.com/watch?v=m5zwL-YtGMU)
+- [獨一無二   譚詠麟〈歌手演唱版〉](https://www.youtube.com/watch?v=crvTMjmLqas)
+- [獨一無二   譚詠麟〈MMO 卡拉版〉](https://www.youtube.com/watch?v=8-Wd_fBbvF8)
+- [獨醉街頭   譚詠麟〈歌手演唱版〉](https://www.youtube.com/watch?v=cvM3fE0W7Ik)
+- [獨醉街頭   譚詠麟〈卡拉伴奏版〉](https://www.youtube.com/watch?v=hopzI68dVow)
+
+----
+
+## E
+
+- [ELAINE   譚詠麟〈卡拉伴奏版〉](https://www.youtube.com/watch?v=5evMpBYCPAg)
+- [ELAINE   譚詠麟〈演唱版〉](https://www.youtube.com/watch?v=eXkAQ-sEfXc)
+
+----
+
+## F
+
+- [飛 馬   譚詠麟〈卡拉伴奏版〉](https://www.youtube.com/watch?v=dbFK9GZozPM)
+- [翡翠情緣〈華語〉譚詠麟〈卡拉伴奏版〉](https://www.youtube.com/watch?v=RZZvG8P1H_w)
+- [飛馬   譚詠麟〈歌手演唱 HD版〉](https://www.youtube.com/watch?v=xiSgkkxAnZE)
+- [飛馬   譚詠麟〈歌手演唱版〉](https://www.youtube.com/watch?v=EeTe-H1AQMk)
+- [飛馬   譚詠麟〈MMO E minor版〉](https://www.youtube.com/watch?v=1GsCkZvzrdw)
+- [飛馬   譚詠麟〈演唱版〉](https://www.youtube.com/watch?v=gAm4C9acZKI)
+- [風中勁草   蔡國權 ‧ 譚詠麟〈歌手演唱 HD版 〉](https://www.youtube.com/watch?v=TVquntbXHic)
+- [風中勁草   蔡國權 ‧ 譚詠麟〈歌手演唱版〉](https://www.youtube.com/watch?v=8UUcFgOeBL0)
+
+----
+
+## G
+
+- [根   譚詠麟 〈 MMO Bb major版〉](https://www.youtube.com/watch?v=GSLWDYWU0JM)
+- [根   譚詠麟 〈歌手演唱 HD版〉](https://www.youtube.com/watch?v=03W_hJBflM8)
+
+----
+
+## H
+
+- [孩兒   譚詠麟〈歌手演唱版〉](https://www.youtube.com/watch?v=roMTRnl2zgE)
+- [孩兒   譚詠麟〈卡拉伴奏版〉](https://www.youtube.com/watch?v=vPGz7EU4Jv0)
+- [還是你懂得愛我   譚詠麟〈歌手演唱 HD 版〉](https://www.youtube.com/watch?v=Odi7yvBh2V0)
+- [還是你懂得愛我   譚詠麟〈MMO Db major版〉](https://www.youtube.com/watch?v=2Sq5Vx65Q1o)
+- [還是你懂得愛我   譚詠麟〈原曲壓聲卡拉版〉](https://www.youtube.com/watch?v=R-2IxfCFWUs)
+- [黑色快車   譚詠麟〈歌手演唱版〉](https://www.youtube.com/watch?v=zGQoMD4RfhA)
+- [黑色快車   譚詠麟〈MMO 卡拉版〉](https://www.youtube.com/watch?v=oUGJHyFtZK4)
+- [Hello Goodbye   譚詠麟〈歌手演唱 Eb 調〉](https://www.youtube.com/watch?v=Rn084bOJ7FY)
+- [Hello Goodbye   譚詠麟〈Live 卡拉版〉](https://www.youtube.com/watch?v=VSy5Udw2dEc)
+- [何謂愛   譚詠麟〈MMO 卡拉版〉](https://www.youtube.com/watch?v=enf_FZsTOz0)
+- [紅塵歲月   譚詠麟〈卡拉伴奏版〉](https://www.youtube.com/watch?v=zdifMaXOzk0)
+- [幻 影   譚詠麟〈演唱版〉](https://www.youtube.com/watch?v=hr30NYaSyL8)
+- [黃昏的聲音   譚詠麟〈歌手演唱版〉](https://www.youtube.com/watch?v=AmYw_HqYXG0)
+- [黃昏的聲音   譚詠麟〈卡拉伴奏版〉](https://www.youtube.com/watch?v=iRPPcxuAWJQ)
+- [幻影－譚詠麟〈MMO 卡拉版〉](https://www.youtube.com/watch?v=6r__XPTefHg)
+- [活得瀟灑   譚詠麟 ‧ 陳慧嫻〈歌手演唱版〉](https://www.youtube.com/watch?v=_0McFwtkKys)
+- [活得瀟灑   譚詠麟 ‧ 陳慧嫻〈卡拉伴奏版〉](https://www.youtube.com/watch?v=iZfZ-cqplWQ)
+- [活得瀟洒   譚詠麟‧陳慧嫻〈對唱卡拉版〉](https://www.youtube.com/watch?v=96TiL7woJSk)
+- [活得瀟洒   譚詠麟‧陳慧嫻〈歌手演唱版〉](https://www.youtube.com/watch?v=qwsawyUXtkM)
+- [火美人   譚詠麟〈歌手演唱版〉](https://www.youtube.com/watch?v=RXDUtbmWy9U)
+- [火美人   譚詠麟〈MMO 卡拉版〉](https://www.youtube.com/watch?v=nr6U08CRC24)
+
+----
+
+## J
+
+- [假刺激   譚詠麟〈歌手演唱 HD版〉](https://www.youtube.com/watch?v=-x57xy8qdnU)
+- [假刺激   譚詠麟〈MMO HD版〉](https://www.youtube.com/watch?v=7Xem3sK9OTQ)
+- [講不出的告別   譚詠麟〈卡拉伴奏版〉](https://www.youtube.com/watch?v=FbFCpl-0RMU)
+- [講不出的告別   譚詠麟〈演唱版〉](https://www.youtube.com/watch?v=OkgMNVEOBB4)
+- [講不出再見   譚詠麟〈歌手演唱 D 調〉](https://www.youtube.com/watch?v=AeG-cBw5p9E)
+- [講不出再見   譚詠麟〈卡拉伴奏 降音版 3S〉](https://www.youtube.com/watch?v=oqR-CGzHBMA)
+- [講不出再見   譚詠麟〈MMO 卡拉版〉](https://www.youtube.com/watch?v=tOPiUzBCWtk)
+- [講不出再見   譚詠麟〈女調 MMO 卡拉版〉](https://www.youtube.com/watch?v=-9dAq0gXW6Y)
+- [講不出再見 －譚詠麟〈MMO D 調〉](https://www.youtube.com/watch?v=f-0LcAS16pw)
+- [借來的美夢   譚詠麟〈歌手演唱 HD版〉](https://www.youtube.com/watch?v=gHdheN9f5YM)
+- [結他的季節   譚詠麟〈歌手演唱 HD版〉](https://www.youtube.com/watch?v=AYJoC2dnZoY)
+- [幾番風雨   邰正宵〈演唱版〉](https://www.youtube.com/watch?v=AEDBeU_pJzg)
+- [今夜情為證   譚詠麟〈卡拉伴奏版〉](https://www.youtube.com/watch?v=UUHlog0L2NY)
+- [今夜情為證   譚詠麟〈MMO 卡拉版〉](https://www.youtube.com/watch?v=EvloajgCCdA)
+- [今夜情為證 —譚詠麟〈歌手演唱版〉](https://www.youtube.com/watch?v=rz69V9MHSgg)
+- [計時炸弹   譚詠麟〈歌手演唱版〉](https://www.youtube.com/watch?v=4wWSZe_IU2I)
+- [計時炸彈   譚詠麟〈MMO 卡拉版〉](https://www.youtube.com/watch?v=Qnnw9GoAiEY)
+- [酒紅色的心   譚詠麟 〈MMO 卡拉版〉](https://www.youtube.com/watch?v=Cfga7w2Wu4E)
+- [酒紅色的心   譚詠麟〈歌手演唱版〉](https://www.youtube.com/watch?v=OJkOS42v5lw)
+- [酒紅色的心   譚詠麟〈卡拉伴奏版〉](https://www.youtube.com/watch?v=A0148Ay1Tyk)
+- [酒紅色的心   譚詠麟〈MMO HD版〉](https://www.youtube.com/watch?v=i-wPWlFaDug)
+- [舊信紙   譚詠麟〈卡拉伴奏版〉](https://www.youtube.com/watch?v=t24pl1ELQAw)
+- [舊信紙   譚詠麟〈MMO HD版〉](https://www.youtube.com/watch?v=wxu6qCLm1fs)
+
+----
+
+## K
+
+- [卡拉永遠OK   譚詠麟〈卡拉伴奏版〉](https://www.youtube.com/watch?v=AIE3aCEni2Q)
+- [卡拉永遠OK   譚詠麟〈MMO 卡拉版〉](https://www.youtube.com/watch?v=_04t_7sgYSI)
+- [卡拉永遠OK   譚詠麟〈演唱4K版〉](https://www.youtube.com/watch?v=QT_1PaFtu1M)
+- [卡拉永遠OK   譚詠麟〈演唱版〉](https://www.youtube.com/watch?v=VnHpCY2Y5O8)
+- [狂小子   譚詠麟〈歌手演唱 HD版〉](https://www.youtube.com/watch?v=kVPs48iBnf4)
+
+----
+
+## L
+
+- [浪漫之後   譚詠麟〈MMO 卡拉版〉](https://www.youtube.com/watch?v=Rgx7kiHZkxE)
+- [冷傲的化妝   譚詠麟 〈卡拉伴奏版〉](https://www.youtube.com/watch?v=9-ZTDVc-KAE)
+- [冷傲的化妝   譚詠麟 〈Live演唱版〉](https://www.youtube.com/watch?v=x1imzRLP19g)
+- [冷傲的化妝   譚詠麟 〈演唱版〉](https://www.youtube.com/watch?v=PHyEHDPUP0g)
+- [冷傲的化妝   譚詠麟〈歌手演唱 C 調〉](https://www.youtube.com/watch?v=KHRwZBX1wKo)
+- [冷傲的化妝   譚詠麟〈卡拉伴奏版〉](https://www.youtube.com/watch?v=WOHuP40p9u4)
+- [亮了紅燈   譚詠麟 〈歌手演唱版〉](https://www.youtube.com/watch?v=B3mFIVovLQQ)
+- [亮了紅燈   譚詠麟 〈MMO 卡拉版〉](https://www.youtube.com/watch?v=YfpoPTHrZOs)
+- [離別酒   譚詠麟〈MMO 卡拉版〉](https://www.youtube.com/watch?v=NxErxiXCzBE)
+- [離不開的心   譚詠麟〈卡拉伴奏版〉](https://www.youtube.com/watch?v=yd2x65NWAEo)
+- [凌晨一吻   譚詠麟〈卡拉伴奏版〉](https://www.youtube.com/watch?v=0bNq6mr2hQU)
+- [凌晨之後   譚詠麟〈MMO 卡拉版〉](https://www.youtube.com/watch?v=CJ4Qz7LsEu8)
+- [令世界變得更暖   譚詠麟〈歌手演唱 HD版〉](https://www.youtube.com/watch?v=BCq9n3S4RRs)
+- [令世界變得更暖   譚詠麟〈MMO HD版〉](https://www.youtube.com/watch?v=SeV8qnFoDPY)
+- [理想與和平   譚詠麟〈MMO HD版〉](https://www.youtube.com/watch?v=WrzaLCNDVFE)
+
+----
+
+## M
+
+- [矛盾   譚詠麟〈歌手演唱版〉](https://www.youtube.com/watch?v=zOBEMzjAUPg)
+- [夢仍是一樣   譚詠麟 ‧ 李克勤〈Live 對唱卡拉版〉](https://www.youtube.com/watch?v=eAtKlnMoAFs)
+- [夢仍是一樣   譚詠麟 ‧ 李克勤〈Live 演唱版〉](https://www.youtube.com/watch?v=5tiLhonrAXc)
+- [夢醒愛更深   譚詠麟〈歌手演唱版〉](https://www.youtube.com/watch?v=d3ZzxKhGTOg)
+- [迷痴的心   譚詠麟〈歌手演唱 HD版〉](https://www.youtube.com/watch?v=4UwbUIvkWRo)
+- [迷痴的心   譚詠麟〈歌手演唱版〉](https://www.youtube.com/watch?v=7XXwx2cKTV0)
+- [迷痴的心   譚詠麟〈MMO HD版〉](https://www.youtube.com/watch?v=6Y1mVTRQGlI)
+- [明天仍要繼續   譚詠麟〈歌手演唱 HD版〉](https://www.youtube.com/watch?v=FuT7dcF2sBA)
+- [明天仍要繼續   譚詠麟〈MMO HD版〉](https://www.youtube.com/watch?v=RZ4AMNczl1Q)
+- [Missy Mona   譚詠麟 〈歌手演唱版〉](https://www.youtube.com/watch?v=o7EjV83G478)
+- [Missy Mona   譚詠麟〈MMO 卡拉版〉](https://www.youtube.com/watch?v=SILSKrDA-yQ)
+- [魔鬼之女   譚詠麟〈歌手演唱版〉](https://www.youtube.com/watch?v=-Ofda9Iumkk)
+- [魔鬼之女   譚詠麟〈卡拉伴奏版 V 2〉](https://www.youtube.com/watch?v=skJAK5SkSqs)
+- [魔鬼之女   譚詠麟〈Live 壓聲卡拉版〉](https://www.youtube.com/watch?v=RqunxxnWCqo)
+- [魔鬼之女   譚詠麟〈MMO Live卡拉版〉](https://www.youtube.com/watch?v=z_D9S59x5Mg)
+- [莫名的淚   譚詠麟 〈歌手演唱 A 調〉](https://www.youtube.com/watch?v=rdUT6PFXvI8)
+- [莫名的淚   譚詠麟〈歌手演唱版〉](https://www.youtube.com/watch?v=bpynu0UD8Ms)
+- [莫名的淚   譚詠麟〈MMO A 調〉](https://www.youtube.com/watch?v=cDCVJcDuXxQ)
+- [莫名的淚   譚詠麟〈MMO 卡拉版〉](https://www.youtube.com/watch?v=L4SxwWu1OVA)
+
+----
+
+## N
+
+- [難得糊塗   譚詠麟 ‧ 黃凱芹〈卡拉伴奏版〉](https://www.youtube.com/watch?v=tSR97JX6v5Q)
+- [你是我的女人   譚詠麟〈歌手演唱版〉](https://www.youtube.com/watch?v=BTtoCud6dj8)
+- [你是我的女人   譚詠麟〈卡拉伴奏版〉](https://www.youtube.com/watch?v=gAkSTneXuYU)
+- [你要等我   譚詠麟 〈歌手演唱HD版〉](https://www.youtube.com/watch?v=u50V__QuAvc)
+- [你要等我   譚詠麟 〈MMO HD版〉](https://www.youtube.com/watch?v=_JKLBCPa84A)
+- [你走的那天下著雨   譚詠麟〈歌手演唱版〉](https://www.youtube.com/watch?v=E-ChdSekg2U)
+
+----
+
+## P
+
+- [朋友   譚詠麟〈歌手演唱 HD版〉](https://www.youtube.com/watch?v=OO98O8o61m4)
+- [朋友   譚詠麟〈卡拉伴奏版〉](https://www.youtube.com/watch?v=f8EFCPYLxDk)
+- [偏愛   譚詠麟 ‧ 早見優〈歌手演唱 Eb 調〉](https://www.youtube.com/watch?v=ahnAn8NSX5E)
+- [偏愛   譚詠麟、早見優〈歌手演唱版〉](https://www.youtube.com/watch?v=PiS9ATt27mw)
+- [偏愛   譚詠麟、早見優〈MMO Eb 調〉](https://www.youtube.com/watch?v=co4azsho-Ws)
+- [偏愛   譚詠麟〈卡拉伴奏版〉](https://www.youtube.com/watch?v=B1bOqtN9LuY)
+- [偏愛   譚詠麟〈女聲伴唱版〉](https://www.youtube.com/watch?v=SczySfeC2j8)
+
+----
+
+## Q
+
+- [牆上的肖像   譚詠麟 〈歌手演唱版〉](https://www.youtube.com/watch?v=nikBD6iA0h4)
+- [牆上的肖像   譚詠麟 〈MMO 卡拉版〉](https://www.youtube.com/watch?v=pSvotv7Lnig)
+- [千面女郎   譚詠麟〈歌手演唱版〉](https://www.youtube.com/watch?v=h47e7ysslIU)
+- [千面女郎   譚詠麟〈卡拉伴奏版〉](https://www.youtube.com/watch?v=vdsq-3WZCsI)
+- [千千闕歌   譚詠麟〈歌手演唱版〉](https://www.youtube.com/watch?v=dXfJgcd2pQo)
+- [千千闕歌   譚詠麟〈MMO 卡拉版〉](https://www.youtube.com/watch?v=7ZjuinAVeEc)
+- [情 人   譚詠麟〈歌手演唱 HD版〉](https://www.youtube.com/watch?v=3Jm4uWTMW2s)
+- [情 人   譚詠麟〈卡拉伴奏版〉](https://www.youtube.com/watch?v=qACazN2vSR0)
+- [情不變   譚詠麟 〈歌手演唱版〉](https://www.youtube.com/watch?v=9BMq63vhfNA)
+- [情不變   譚詠麟〈MMO 卡拉版〉](https://www.youtube.com/watch?v=S5w2AkfxvwM)
+- [青春夢〈華語〉譚詠麟〈歌手演唱版〉](https://www.youtube.com/watch?v=7O6KIhRRSz4)
+- [情倆牽   譚詠麟〈歌手演唱版〉](https://www.youtube.com/watch?v=CPSWCjhtU8E)
+- [情倆牽   譚詠麟〈原曲壓聲卡拉版〉](https://www.youtube.com/watch?v=3R0UHPkEve4)
+- [傾我今生   譚詠麟〈MMO HD版〉](https://www.youtube.com/watch?v=Kk8OXIjDXx0)
+- [情義倆心知   譚詠麟〈歌手演唱版〉](https://www.youtube.com/watch?v=2hoq26_gd2E)
+- [情義倆心知   譚詠麟〈卡拉伴奏版〉](https://www.youtube.com/watch?v=3zVq9DM04U8)
+- [情緣巴士站   譚詠麟〈卡拉伴奏版〉](https://www.youtube.com/watch?v=3elmYljmAW8)
+- [情緣巴士站   譚詠麟〈演唱版〉](https://www.youtube.com/watch?v=zJ_kbnAipG4)
+- [情在雪天   譚詠麟 〈卡拉伴奏版〉](https://www.youtube.com/watch?v=Y9-L4VxnER4)
+
+----
+
+## R
+
+- [讓我繼續忘記你   譚詠麟〈歌手演唱版〉](https://www.youtube.com/watch?v=-KwvcqyT1Vs)
+- [讓我繼續忘記你   譚詠麟〈MMO 卡拉版〉](https://www.youtube.com/watch?v=OCHDVU-_4h0)
+- [讓我繼續忘記你   譚詠麟〈壓聲卡拉版〉](https://www.youtube.com/watch?v=sLPDq1Tl5DI)
+- [仍在夢裡   譚詠麟〈歌手演唱版〉](https://www.youtube.com/watch?v=GH7v32F9qUQ)
+- [仍在夢裡   譚詠麟〈MMO 卡拉版〉](https://www.youtube.com/watch?v=UdL23oQRaEw)
+- [日落時份   譚詠麟〈卡拉伴奏版〉](https://www.youtube.com/watch?v=MAn11ZjNQu4)
+- [柔柔河畔   譚詠麟〈歌手演唱版〉](https://www.youtube.com/watch?v=nzx6gZRk-n4)
+- [柔柔河畔   譚詠麟〈卡拉伴奏版〉](https://www.youtube.com/watch?v=WY5KHh9XjB4)
+
+----
+
+## S
+
+- [上善若水   譚詠麟〈歌手演唱版〉](https://www.youtube.com/watch?v=W9AfTNk8-e4)
+- [上善若水   譚詠麟〈卡拉伴奏版〉](https://www.youtube.com/watch?v=1QcXNTXW6sg)
+- [上善若水   譚詠麟〈MMO 卡拉版〉](https://www.youtube.com/watch?v=mrnRvzkYzig)
+- [傷心帶笑者   譚詠麟〈歌手演唱 HD版〉](https://www.youtube.com/watch?v=8MZJeeKjJII)
+- [傷心帶笑者   譚詠麟〈MMO HD版〉](https://www.youtube.com/watch?v=Rot_c1TNHKQ)
+- [山野閒情   譚詠麟〈歌手演唱 HD版〉](https://www.youtube.com/watch?v=vQh9NVHgQIc)
+- [山野閒情   譚詠麟〈MMO HD版〉](https://www.youtube.com/watch?v=kERPV38Rj1U)
+- [神的傳說〈華語〉譚詠麟〈歌手演唱版〉](https://www.youtube.com/watch?v=meEj_Q8vakU)
+- [神的傳說〈華語〉譚詠麟〈壓聲卡拉版〉](https://www.youtube.com/watch?v=zhYOgkQxZHY)
+- [生命的詩篇    譚詠麟〈純音樂伴奏版〉](https://www.youtube.com/watch?v=e-nl-HcHTkY)
+- [生命的詩篇    譚詠麟〈歌手演唱版〉](https://www.youtube.com/watch?v=rYvipoNLw4s)
+- [生命的詩篇    譚詠麟〈卡拉伴奏版〉](https://www.youtube.com/watch?v=Uv0jd1ppl4s)
+- [世界停頓   譚詠麟〈歌手演唱版〉](https://www.youtube.com/watch?v=ZF08BvoAUbQ)
+- [誰可比親心    譚詠麟〈MMO HD版〉](https://www.youtube.com/watch?v=Al-ffs7RR1k)
+- [誰可改變   譚詠麟〈歌手演唱 F 調〉](https://www.youtube.com/watch?v=6KcSS4jsU9A)
+- [誰可改變   譚詠麟〈歌手演唱版〉](https://www.youtube.com/watch?v=CksWzBPT6H0)
+- [誰可改變   譚詠麟〈卡拉伴奏版 V 2〉](https://www.youtube.com/watch?v=LrigkSuhb5Y)
+- [誰可改變   譚詠麟〈卡拉伴奏版〉](https://www.youtube.com/watch?v=G5UwpX7RXZY)
+- [誰可改變   譚詠麟〈MMO F 調〉](https://www.youtube.com/watch?v=m22KhEYamJ8)
+- [水中花   譚詠麟 ‧ 鄭少秋 ‧ 鍾鎮濤〈歌手演唱 HD版〉](https://www.youtube.com/watch?v=0YIAqJIyScI)
+- [水中花   譚詠麟〈歌手演唱版〉](https://www.youtube.com/watch?v=mnU3k6CjVbY)
+- [水中花   譚詠麟〈MMO 卡拉版〉](https://www.youtube.com/watch?v=-OaT82k6N-w)
+- [水中花   譚詠麟〈演唱版〉](https://www.youtube.com/watch?v=ARSAafTCfG0)
+- [俗世洪流   譚詠麟〈卡拉伴奏版〉](https://www.youtube.com/watch?v=tcb-vD2oqzQ)
+- [俗世洪流   譚詠麟〈演唱版〉](https://www.youtube.com/watch?v=PSiCQqr5QRA)
+
+----
+
+## T
+
+- [天邊一只雁   譚詠麟〈歌手演唱版〉](https://www.youtube.com/watch?v=IotzfPmabvU)
+- [天邊一只雁   譚詠麟〈MMO 卡拉版〉](https://www.youtube.com/watch?v=4ZYoz5EpUQM)
+- [天邊一隻雁‧舊歡如夢   譚詠麟‧李克勤〈Live 演唱版〉](https://www.youtube.com/watch?v=Wavq0mh82WA)
+- [天地初開情已在   譚詠麟〈歌手演唱 HD版〉](https://www.youtube.com/watch?v=1UxSRrhP0WE)
+- [聽了一夜的雨〈華語〉譚詠麟〈MMO HD版〉](https://www.youtube.com/watch?v=3qViRHYonxA)
+- [脫胎換骨〈華語〉譚詠麟‧五月天〈原曲壓聲伴奏版〉](https://www.youtube.com/watch?v=yKpzt1ZU_UM)
+
+----
+
+## W
+
+- [忘不了 停不了 逃不掉   譚詠麟〈歌手演唱版〉](https://www.youtube.com/watch?v=5oyXziK7gOY)
+- [忘不了 停不了 逃不掉   譚詠麟〈MMO 卡拉版〉](https://www.youtube.com/watch?v=iVBhqdSRRDM)
+- [忘不了你   譚詠麟〈卡拉伴奏版〉](https://www.youtube.com/watch?v=j6wcX-49e8w)
+- [忘不了你‧深深深   譚詠麟‧李克勤〈Live 演唱版〉](https://www.youtube.com/watch?v=l9f70YJWulg)
+- [萬能的你   譚詠麟〈歌手演唱 HD版〉](https://www.youtube.com/watch?v=5dexM69Bdz8)
+- [萬能的你   譚詠麟〈MMO HD版〉](https://www.youtube.com/watch?v=KUYlIaZZy8Y)
+- [問   譚詠麟〈歌手演唱版〉](https://www.youtube.com/watch?v=les1vVyp0nE)
+- [吻別   譚詠麟〈卡拉伴奏版〉](https://www.youtube.com/watch?v=9o1tLHVmVbs)
+- [吻別   譚詠麟〈演唱版〉](https://www.youtube.com/watch?v=oPLBD5WE7Wc)
+- [吻別   譚詠麟〈足本演唱版〉](https://www.youtube.com/watch?v=TkZCUHiKsIs)
+- [吻別－譚詠麟〈歌手演唱版〉](https://www.youtube.com/watch?v=78jFPlITdSw)
+- [吻別－譚詠麟〈MMO 卡拉版〉](https://www.youtube.com/watch?v=_a4mfkt4ts4)
+- [我愛雀斑   譚詠麟〈歌手演唱 HD版〉](https://www.youtube.com/watch?v=eqReqDB2FAE)
+- [我愛雀斑   譚詠麟〈MMO HD版〉](https://www.youtube.com/watch?v=qY2xAf7GKhU)
+- [我愛世界   譚詠麟〈歌手演唱 HD版〉](https://www.youtube.com/watch?v=FxU8yjFwmjw)
+- [我愛世界   譚詠麟〈MMO HD版〉](https://www.youtube.com/watch?v=q0McTMwAbvY)
+- [我的背後你的手   譚詠麟〈歌手演唱版〉](https://www.youtube.com/watch?v=wM6C4uN5T_E)
+- [我的生命我的愛   譚詠麟〈歌手演唱 HD版〉](https://www.youtube.com/watch?v=G8MzHCfjj80)
+- [我的生命我的愛   譚詠麟〈歌手演唱版〉](https://www.youtube.com/watch?v=ZWwOzy_Iz1I)
+- [我的生命我的愛   譚詠麟〈卡拉伴奏版〉](https://www.youtube.com/watch?v=HWUmHJJjmPg)
+- [我心喜歡妳   譚詠麟 〈MMO 卡拉版〉](https://www.youtube.com/watch?v=LzK7Zi_ATbM)
+- [我心喜歡你   譚詠麟〈歌手演唱版〉](https://www.youtube.com/watch?v=D34j_wJ8hvA)
+- [我心喜歡你   譚詠麟〈原曲壓聲卡拉版〉](https://www.youtube.com/watch?v=v3QnqExrOyw)
+- [我心只有你   譚詠麟〈歌手演唱版〉](https://www.youtube.com/watch?v=zqmBHvYOnFc)
+- [我心只有你   譚詠麟〈原曲壓聲卡拉版〉](https://www.youtube.com/watch?v=m3z_0A2NtQ0)
+- [我永遠都愛你   譚詠麟〈歌手演唱版〉](https://www.youtube.com/watch?v=D-nLwG0w-ZE)
+- [我永遠都愛你   譚詠麟〈卡拉伴奏版〉](https://www.youtube.com/watch?v=t_nbgG5F9Ys)
+- [無邊的思憶   譚詠麟〈MMO Eb 調〉](https://www.youtube.com/watch?v=9awpjYNYfE8)
+- [無盡情結   譚詠麟〈歌手演唱版〉](https://www.youtube.com/watch?v=6wlndnVfD2s)
+- [無盡情結   譚詠麟〈卡拉伴奏版〉](https://www.youtube.com/watch?v=WHO0N9eucdQ)
+- [無限感覺在這天   譚詠麟〈歌手演唱 HD版〉](https://www.youtube.com/watch?v=TPbTxbV0eWM)
+- [無言感激   譚詠麟〈歌手演唱 G 調〉](https://www.youtube.com/watch?v=alNfDgPDUMM)
+- [無言感激   譚詠麟〈歌手演唱版〉](https://www.youtube.com/watch?v=Fn9a6DPGk6w)
+- [無言感激   譚詠麟〈卡拉伴奏版〉](https://www.youtube.com/watch?v=gyhhBUbgKLs)
+- [午夜戀人路   譚詠麟〈MMO 卡拉版〉](https://www.youtube.com/watch?v=sl_GzqCyNFc)
+- [午夜戀人路   譚詠麟〈壓聲卡拉版〉](https://www.youtube.com/watch?v=ruBfIX5Pcq0)
+- [午夜麗人   譚詠麟〈歌手演唱版〉](https://www.youtube.com/watch?v=pZW_a3WfCQA)
+- [午夜麗人   譚詠麟〈卡拉伴奏版〉](https://www.youtube.com/watch?v=ZKBer4GuVSQ)
+- [午夜戰士   譚詠麟 〈MMO Bbm 調〉](https://www.youtube.com/watch?v=J6-0-_-cmuE)
+- [午夜戰士   譚詠麟〈歌手演唱 HD版〉](https://www.youtube.com/watch?v=kwSOVqQbjQQ)
+- [霧之戀   譚詠麟 ‧ 李克勤〈Live 對唱卡拉版〉](https://www.youtube.com/watch?v=XyJ6ONcOyVs)
+- [霧之戀   譚詠麟 ‧ 李克勤〈Live 演唱版〉](https://www.youtube.com/watch?v=m91dOI7XFbI)
+- [霧之戀   譚詠麟〈歌手演唱 HD版〉](https://www.youtube.com/watch?v=z6GFZLS2UEc)
+- [霧之戀   譚詠麟〈卡拉伴奏版〉](https://www.youtube.com/watch?v=pUWIg6x_3Ow)
+- [霧之戀   譚詠麟〈MMO D major版〉](https://www.youtube.com/watch?v=u1fg0gYFAIk)
+- [霧之戀   譚詠麟〈演唱版〉](https://www.youtube.com/watch?v=JNl-Vtn83VE)
+
+----
+
+## X
+
+- [喜愛   譚詠麟 〈歌手演唱版〉](https://www.youtube.com/watch?v=ZvhSkQnseyE)
+- [想將來   譚詠麟〈歌手演唱 Em 調〉](https://www.youtube.com/watch?v=VROBoGgY1P8)
+- [想將來   譚詠麟〈歌手演唱版〉](https://www.youtube.com/watch?v=DdozLQvJGo0)
+- [想將來   譚詠麟〈卡拉伴奏版〉](https://www.youtube.com/watch?v=4fNuS2lTOQI)
+- [想將來   譚詠麟〈MMO Em 調〉](https://www.youtube.com/watch?v=WR8tDhF81As)
+- [相識非偶然   譚詠麟〈MMO 卡拉版〉](https://www.youtube.com/watch?v=dQGE3XFk2Bs)
+- [小風波   譚詠麟〈MMO 卡拉版〉](https://www.youtube.com/watch?v=3NZSjkmpI-c)
+- [小珊瑚   譚詠麟〈歌手演唱版〉](https://www.youtube.com/watch?v=L4hu8DOSw5Y)
+- [小珊瑚   譚詠麟〈卡拉伴奏版〉](https://www.youtube.com/watch?v=IAWqIcbgOMI)
+- [小説人生   譚詠麟〈歌手演唱版〉](https://www.youtube.com/watch?v=oAtnyhV4rFc)
+- [小説人生   譚詠麟〈卡拉伴奏版〉](https://www.youtube.com/watch?v=U2lGtGLD-Vw)
+- [夏日寒風   譚詠麟〈歌手演唱 Fm 調〉](https://www.youtube.com/watch?v=94NvLe2QT1I)
+- [夏日寒風   譚詠麟〈演唱版〉](https://www.youtube.com/watch?v=wrBnMHYa-oQ)
+- [星球本色   譚詠麟〈MMO HD版〉](https://www.youtube.com/watch?v=TM9byak-8hA)
+
+----
+
+## Y
+
+- [樣樣做到好   譚詠麟〈卡拉伴奏版〉](https://www.youtube.com/watch?v=W5NoWodkdRA)
+- [遙 望   譚詠麟〈卡拉伴奏版〉](https://www.youtube.com/watch?v=wr75SJQ4wEM)
+- [遙望   譚詠麟〈演唱版〉](https://www.youtube.com/watch?v=9gf8SADmJJo)
+- [也曾相識   譚詠麟〈卡拉伴奏版〉](https://www.youtube.com/watch?v=VXiCFxrwTE8)
+- [也曾相識   譚詠麟〈MMO 卡拉版〉](https://www.youtube.com/watch?v=SL8x_csueaA)
+- [夜未央〈華語〉譚詠麟〈歌手演唱 HD版〉](https://www.youtube.com/watch?v=Yt1_aqVJsnM)
+- [夜未央〈華語〉譚詠麟〈MMO A 調〉](https://www.youtube.com/watch?v=tlEhY4MFBRM)
+- [一段浪漫   譚詠麟〈MMO G major版〉](https://www.youtube.com/watch?v=UEj3k_8CTJg)
+- [一個永遠不好的傷口   譚詠麟〈Live 卡拉版〉](https://www.youtube.com/watch?v=MHMOBL1WDaU)
+- [一片天   譚詠麟〈歌手演唱 HD版〉](https://www.youtube.com/watch?v=dH0NOUCD7JA)
+- [一片天   譚詠麟〈歌手演唱 HD版〉](https://www.youtube.com/watch?v=XzL2vQSKx0w)
+- [一片天   譚詠麟〈歌手演唱版〉](https://www.youtube.com/watch?v=CfeevxGpzHo)
+- [一片天   譚詠麟〈MMO Dm 調〉](https://www.youtube.com/watch?v=09hJUSIM3Cs)
+- [一片天   譚詠麟〈MMO Dm 調〉](https://www.youtube.com/watch?v=COxaAxBL41U)
+- [一生不變 ‧  一生中最愛   譚詠麟‧李克勤〈Live 卡拉版〉](https://www.youtube.com/watch?v=jkmNS7g9g-k)
+- [一生不變 ‧  一生中最愛   譚詠麟‧李克勤〈Live 演唱版〉](https://www.youtube.com/watch?v=uTTpdKdw6ck)
+- [一生中最愛   譚詠麟〈卡拉伴奏版〉](https://www.youtube.com/watch?v=wetmvP9lXUw)
+- [一生中最愛   譚詠麟〈MMO 卡拉版〉](https://www.youtube.com/watch?v=kHNZRzT5BC8)
+- [一生中最愛   譚詠麟〈演唱版〉](https://www.youtube.com/watch?v=9Vt8oZPoM7M)
+- [一生中最愛 －譚詠麟〈歌手演唱版〉](https://www.youtube.com/watch?v=TJtEg2YBh-g)
+- [一世風雲   譚詠麟〈歌手演唱版〉](https://www.youtube.com/watch?v=i4nsQMwf5A4)
+- [一世風雲   譚詠麟〈卡拉Trim伴奏版〉](https://www.youtube.com/watch?v=VNjTLFVOoao)
+- [一世風雲   譚詠麟〈演唱版〉](https://www.youtube.com/watch?v=Ze8DtEgkMFo)
+- [一首歌一個故事   譚詠麟〈歌手演唱 HD版〉](https://www.youtube.com/watch?v=5YG1Ah27vmc)
+- [一首歌一個故事   譚詠麟〈MMO B 調〉](https://www.youtube.com/watch?v=aS4_juLtw7I)
+- [擁 抱   譚詠麟〈演唱版〉](https://www.youtube.com/watch?v=rXp3gQ5NcxI)
+- [永不想你   譚詠麟〈歌手演唱 G 調〉](https://www.youtube.com/watch?v=GVZXmLjhILg)
+- [永不想你   譚詠麟〈卡拉伴奏版〉](https://www.youtube.com/watch?v=WpKJR5Cr7BA)
+- [永不想你   譚詠麟〈MMO G 調〉](https://www.youtube.com/watch?v=8lgBrIQrRr4)
+- [永遠都深愛你   譚詠麟〈歌手演唱版〉](https://www.youtube.com/watch?v=P-WaJsbGrfg)
+- [有淚不輕流   譚詠麟〈歌手演唱 HD版〉](https://www.youtube.com/watch?v=hAYwDeJatjA)
+- [有淚不輕流   譚詠麟〈MMO HD版〉](https://www.youtube.com/watch?v=PbY1pHffFjk)
+- [緣份有限期   譚詠麟〈歌手演唱 HD版〉](https://www.youtube.com/watch?v=m4X0U2rlqEs)
+- [緣份有限期   譚詠麟〈歌手演唱版〉](https://www.youtube.com/watch?v=epLVVErRYXU)
+- [緣份有限期   譚詠麟〈MMO D 調〉](https://www.youtube.com/watch?v=DgqFPkYmZms)
+- [緣份有限期   譚詠麟〈MMO 卡拉版〉](https://www.youtube.com/watch?v=zfRmm612liw)
+- [緣份有限期   譚詠麟〈壓聲卡拉版〉](https://www.youtube.com/watch?v=Mhz3j9Unzao)
+- [緣盡愛更痴   譚詠麟〈卡拉伴奏版〉](https://www.youtube.com/watch?v=9YwMQdItLvg)
+- [緣盡愛更痴   譚詠麟〈演唱版〉](https://www.youtube.com/watch?v=_6cBof2IEnw)
+- [緣未了   譚詠麟〈歌手演唱版〉](https://www.youtube.com/watch?v=qilZ7MDziMU)
+- [緣未了   譚詠麟〈MMO 卡拉版〉](https://www.youtube.com/watch?v=CTCa8ndATa8)
+- [雲似是你   譚詠麟〈歌手演唱 HD版〉](https://www.youtube.com/watch?v=oFgb_0ki33k)
+- [雲似是你   譚詠麟〈MMO HD版〉](https://www.youtube.com/watch?v=Y15-zz8LnSo)
+- [雨絲 情愁   譚詠麟〈歌手演唱版〉](https://www.youtube.com/watch?v=E5lGD8Smb1c)
+- [雨絲 情愁   譚詠麟〈Live 卡拉版〉](https://www.youtube.com/watch?v=c10kzkRy6bk)
+- [雨絲 情愁   譚詠麟〈Live 演唱版〉](https://www.youtube.com/watch?v=YEO9mPhOmFY)
+- [雨絲 情愁   譚詠麟〈MMO 卡拉版〉](https://www.youtube.com/watch?v=Z8vK1pD5pK0)
+- [雨絲情愁‧飛花   譚詠麟 ‧ 李克勤〈Live 卡拉版〉](https://www.youtube.com/watch?v=HYS5P_PI5mU)
+- [雨絲情愁‧飛花   譚詠麟 ‧ 李克勤〈Live 演唱版〉](https://www.youtube.com/watch?v=fcLost7ZliE)
+- [雨夜的浪漫   譚詠麟〈歌手演唱 Em 調〉](https://www.youtube.com/watch?v=hH4cS_5GAbY)
+- [雨夜的浪漫   譚詠麟〈卡拉伴奏版〉](https://www.youtube.com/watch?v=4nD3a-5uBX8)
+- [雨夜的浪漫   譚詠麟〈演唱版〉](https://www.youtube.com/watch?v=YLsdRYaU2WM)
+
+----
+
+## Z
+
+- [再等幾天   譚詠麟 〈卡拉伴奏版〉](https://www.youtube.com/watch?v=FUiZOIFltvg)
+- [再等幾天   譚詠麟 〈演唱版〉](https://www.youtube.com/watch?v=wUlAbVRAmfo)
+- [再見吧浪漫   譚詠麟〈歌手演唱版〉](https://www.youtube.com/watch?v=niXmi4LLdnU)
+- [再見亦是淚   譚詠麟〈歌手演唱 HD版〉](https://www.youtube.com/watch?v=y_9vaWuo-nk)
+- [再見亦是淚   譚詠麟〈Live 卡拉版〉](https://www.youtube.com/watch?v=ZG1CWA68YXU)
+- [再見亦是淚   譚詠麟〈MMO Cm 調〉](https://www.youtube.com/watch?v=Tl58Vp5nmO4)
+- [再續無盡愛   譚詠麟〈歌手演唱版〉](https://www.youtube.com/watch?v=y3lI60UpiPA)
+- [再續無盡愛   譚詠麟〈卡拉伴奏版〉](https://www.youtube.com/watch?v=dFbrgA2gfDk)
+- [再續無盡愛   譚詠麟〈MMO HD版〉](https://www.youtube.com/watch?v=fsK0dn3WJfU)
+- [暫 別   譚詠麟 ‧ 雷安娜〈歌手演唱版〉](https://www.youtube.com/watch?v=hIMOBYy3dsU)
+- [珍惜的珍惜   譚詠麟〈歌手演唱 G 調〉](https://www.youtube.com/watch?v=LJ_teEMbSq8)
+- [珍惜的珍惜   譚詠麟〈歌手演唱版〉](https://www.youtube.com/watch?v=to6nn7x4B0I)
+- [珍惜的珍惜   譚詠麟〈歌手演唱版〉](https://www.youtube.com/watch?v=rfZei7uHnBQ)
+- [珍惜的珍惜   譚詠麟〈卡拉伴奏版〉](https://www.youtube.com/watch?v=qV0nfWHHyQI)
+- [珍惜的珍惜   譚詠麟〈卡拉伴奏版〉](https://www.youtube.com/watch?v=LXqoQisVliw)
+- [珍惜的珍惜   譚詠麟〈MMO 卡拉版〉](https://www.youtube.com/watch?v=5kjfY-a4Amc)
+- [珍重   譚詠麟〈歌手演唱版〉](https://www.youtube.com/watch?v=Yf-uIDsSa1o)
+- [珍重   譚詠麟〈卡拉伴奏版〉](https://www.youtube.com/watch?v=artyYsV5H0o)
+- [珍重   譚詠麟〈MMO 卡拉版〉](https://www.youtube.com/watch?v=906crm5maN4)
+- [珍重   譚詠麟〈演唱版〉](https://www.youtube.com/watch?v=sjOj7fUBE-c)
+- [知不知   譚詠麟〈歌手演唱 HD版〉](https://www.youtube.com/watch?v=VqmcN2KEo3M)
+- [知不知   譚詠麟〈歌手演唱版〉](https://www.youtube.com/watch?v=tlJbeY4hZeA)
+- [知不知   譚詠麟〈Live 卡拉版〉](https://www.youtube.com/watch?v=kNFCpm3KFOE)
+- [知不知   譚詠麟〈MMO F major版〉](https://www.youtube.com/watch?v=MPwev0dNq4E)
+- [知不知   譚詠麟〈MMO 卡拉版〉](https://www.youtube.com/watch?v=Shlmi-BwT54)
+- [知不知   譚詠麟〈演唱版〉](https://www.youtube.com/watch?v=ZiVcgMMo0VQ)
+- [知心當玩偶   譚詠麟 〈歌手演唱版〉](https://www.youtube.com/watch?v=32rFrrSqBZI)
+- [知心當玩偶   譚詠麟 〈MMO 卡拉版〉](https://www.youtube.com/watch?v=1PGPgITPYz0)
+- [只有你   譚詠麟〈卡拉伴奏版〉](https://www.youtube.com/watch?v=FZ51E6-HXR4)
+- [只有你   譚詠麟〈演唱版〉](https://www.youtube.com/watch?v=bXeVKC5aBDA)
+- [只有知心一個   譚詠麟〈歌手演唱版〉](https://www.youtube.com/watch?v=rSY3XD6cchA)
+- [只有知心一個   譚詠麟〈卡拉伴奏版〉](https://www.youtube.com/watch?v=6b4CdzN7LyE)
+- [至尊無上    譚詠麟〈歌手演唱版〉](https://www.youtube.com/watch?v=Gag-apU5F8s)
+- [至尊無上    譚詠麟〈原曲壓聲卡拉版〉](https://www.youtube.com/watch?v=upph1SNIiQw)
+- [至尊無上   譚詠麟〈歌手演唱版〉](https://www.youtube.com/watch?v=7RKBwlHKY7k)
+- [至尊無上   譚詠麟〈MMO 卡拉版〉](https://www.youtube.com/watch?v=7g45IkdsYys)
+- [最愛的你   譚詠麟〈歌手演唱版〉](https://www.youtube.com/watch?v=Z4wI0mUAlPw)
+- [最愛的你   譚詠麟〈MMO 卡拉版〉](https://www.youtube.com/watch?v=e6ZUe1JLTWE)
+- [最愛的你 譚詠麟〈歌手演唱 D 調〉](https://www.youtube.com/watch?v=wLJqZ5VUIw8)
+- [最愛的你 譚詠麟〈MMO D 調〉](https://www.youtube.com/watch?v=T7u2oro0JTg)
+- [最愛是誰   譚詠麟〈卡拉伴奏版〉](https://www.youtube.com/watch?v=JyunCtWwJRQ)
+
+----
